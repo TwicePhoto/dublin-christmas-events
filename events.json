@@ -9,6 +9,7 @@
  "events": [
   {
    "id": "2026-11-17-gate-itsawonderfullife",
+   "added": "2026-11-10",
    "title": "It's A Wonderful Life",
    "category": "show",
    "start": "2026-11-17T18:30",
@@ -25,6 +26,7 @@
   },
   {
    "id": "2026-11-20-helix-thehelixpantoneverland",
+   "added": "2026-11-10",
    "title": "The Helix Panto: Neverland",
    "category": "family",
    "start": "2026-11-20T19:30",
@@ -42,6 +44,7 @@
   },
   {
    "id": "2026-11-22-gaiety-thegaietypantorobinhood",
+   "added": "2026-11-10",
    "title": "The Gaiety Panto: Robin Hood",
    "category": "family",
    "start": "2026-11-22T19:30",
@@ -59,6 +62,7 @@
   },
   {
    "id": "2026-11-25-nch-singoutchoirchristmascon",
+   "added": "2026-11-06",
    "title": "Sing Out! Choir: Christmas Concert",
    "category": "concert",
    "start": "2026-11-25T19:00",
@@ -82,6 +86,7 @@
   },
   {
    "id": "2026-11-25-stpatricks-tinseltownforfocusirelan",
+   "added": "2026-11-06",
    "title": "Tinseltown for Focus Ireland — Christmas Concert",
    "category": "concert",
    "start": "2026-11-25T20:00",
@@ -106,6 +111,7 @@
   },
   {
    "id": "2026-11-25-civic-christmaswiththedublingo",
+   "added": "2026-11-06",
    "title": "Christmas with the Dublin Gospel Choir",
    "category": "concert",
    "start": "2026-11-25T20:00",
@@ -130,6 +136,7 @@
   },
   {
    "id": "2026-11-25-ark-achristmascarol",
+   "added": "2026-11-10",
    "title": "A Christmas Carol",
    "category": "family",
    "start": "2026-11-25T19:30",
@@ -147,6 +154,7 @@
   },
   {
    "id": "2026-11-26-civic-christmascountrywiththes",
+   "added": "2026-11-06",
    "title": "Christmas Country with The Stars 2026",
    "category": "concert",
    "start": "2026-11-26T19:30",
@@ -171,6 +179,7 @@
   },
   {
    "id": "2026-11-27-castleknocktennis-bekindthischristmas",
+   "added": "2026-11-06",
    "title": "Bekind this Christmas",
    "category": "concert",
    "start": "2026-11-27T19:30",
@@ -194,6 +203,7 @@
   },
   {
    "id": "2026-11-27-stagnes-christmasoholynighttheth",
+   "added": "2026-11-06",
    "title": "Christmas O Holy Night — The Three Tenors",
    "category": "concert",
    "start": "2026-11-27T20:00",
@@ -218,6 +228,7 @@
   },
   {
    "id": "2026-11-28-civic-marybyrnemykindofchristm",
+   "added": "2026-11-06",
    "title": "Mary Byrne — My Kind of Christmas",
    "category": "concert",
    "start": "2026-11-28T20:00",
@@ -242,6 +253,7 @@
   },
   {
    "id": "2026-11-29-stpatricks-adventprocessionbycandle",
+   "added": "2026-11-06",
    "title": "Advent Procession by Candlelight",
    "category": "carols",
    "start": "2026-11-29T18:00",
@@ -264,6 +276,7 @@
   },
   {
    "id": "2026-11-29-cccathedral-adventprocession",
+   "added": "2026-11-10",
    "title": "Advent Procession",
    "category": "carols",
    "start": "2026-11-29T17:00",
@@ -287,6 +300,7 @@
   },
   {
    "id": "2026-11-29-taney-taneyswalkingnativityexp",
+   "added": "2026-11-10",
    "title": "Taney's Walking Nativity Experience",
    "category": "family",
    "start": "2026-11-29T19:30",
@@ -302,6 +316,7 @@
   },
   {
    "id": "2026-11-30-nch-jinglealltheway",
+   "added": "2026-11-06",
    "title": "Jingle All The Way",
    "category": "concert",
    "start": "2026-11-30T19:30",
@@ -326,6 +341,7 @@
   },
   {
    "id": "2026-11-30-cccathedral-shopperscarolsbelvederec",
+   "added": "2026-11-10",
    "title": "Shoppers' Carols: Belvedere College",
    "category": "carols",
    "start": "2026-11-30T13:30",
@@ -351,6 +367,7 @@
   },
   {
    "id": "2026-12-01-newman-choralscholarsachoralcel",
+   "added": "2026-11-06",
    "title": "Choral Scholars: A Choral Celebration of Christmas",
    "category": "concert",
    "start": "2026-12-01T20:00",
@@ -374,6 +391,7 @@
   },
   {
    "id": "2026-12-02-civic-ticklesanddottiearefreez",
+   "added": "2026-11-06",
    "title": "Tickles and Dottie are Freezin' — The Civic Panto",
    "category": "family",
    "start": "2026-12-02T18:30",
@@ -399,6 +417,7 @@
   },
   {
    "id": "2026-12-02-stpatricks-christmasbycandlelight",
+   "added": "2026-11-06",
    "title": "Christmas By Candlelight",
    "category": "concert",
    "start": "2026-12-02T20:00",
@@ -423,6 +442,7 @@
   },
   {
    "id": "2026-12-03-cccathedral-shopperscarolsmountcarme",
+   "added": "2026-11-06",
    "title": "Shoppers' Carols — Mount Carmel",
    "category": "carols",
    "start": "2026-12-03T13:30",
@@ -448,6 +468,7 @@
   },
   {
    "id": "2026-12-03-stmaryshadd-celticchristmas",
+   "added": "2026-11-06",
    "title": "Celtic Christmas",
    "category": "concert",
    "start": "2026-12-03T19:00",
@@ -471,6 +492,7 @@
   },
   {
    "id": "2026-12-03-newman-choralscholarsachoralcel",
+   "added": "2026-11-06",
    "title": "Choral Scholars: A Choral Celebration of Christmas",
    "category": "concert",
    "start": "2026-12-03T19:30",
@@ -494,6 +516,7 @@
   },
   {
    "id": "2026-12-03-nch-sundaymiscellanycelebrat",
+   "added": "2026-11-05",
    "title": "Sunday Miscellany Celebrates Christmas",
    "category": "concert",
    "start": "2026-12-03T20:00",
@@ -517,6 +540,7 @@
   },
   {
    "id": "2026-12-03-stpatricks-christmasbycandlelight",
+   "added": "2026-11-06",
    "title": "Christmas By Candlelight",
    "category": "concert",
    "start": "2026-12-03T20:00",
@@ -541,6 +565,7 @@
   },
   {
    "id": "2026-12-03-westland-messiah",
+   "added": "2026-11-06",
    "title": "Messiah",
    "category": "concert",
    "start": "2026-12-03T20:00",
@@ -564,6 +589,7 @@
   },
   {
    "id": "2026-12-04-nch-swingintochristmas",
+   "added": "2026-11-06",
    "title": "Swing Into Christmas!",
    "category": "concert",
    "start": "2026-12-04T13:05",
@@ -588,6 +614,7 @@
   },
   {
    "id": "2026-12-04-mill-themagicandmusicofchrist",
+   "added": "2026-11-05",
    "title": "The Magic and Music of Christmas",
    "category": "concert",
    "start": "2026-12-04T20:00",
@@ -612,6 +639,7 @@
   },
   {
    "id": "2026-12-04-pavilion-christmaswiththedublingo",
+   "added": "2026-11-05",
    "title": "Christmas with the Dublin Gospel Choir",
    "category": "concert",
    "start": "2026-12-04T20:00",
@@ -635,6 +663,7 @@
   },
   {
    "id": "2026-12-04-lucan-themerriestofmusic",
+   "added": "2026-11-06",
    "title": "The Merriest of Music",
    "category": "concert",
    "start": "2026-12-04T20:00",
@@ -658,6 +687,7 @@
   },
   {
    "id": "2026-12-05-mill-pinocchio",
+   "added": "2026-11-10",
    "title": "Pinocchio",
    "category": "family",
    "start": "2026-12-05T12:00",
@@ -683,6 +713,7 @@
   },
   {
    "id": "2026-12-05-balbriggan-loricalunchtimeconcertba",
+   "added": "2026-11-06",
    "title": "Lorica Lunchtime Concert, Balbriggan",
    "category": "carols",
    "start": "2026-12-05T13:00",
@@ -706,6 +737,7 @@
   },
   {
    "id": "2026-12-05-newman-ascoltaangels",
+   "added": "2026-11-06",
    "title": "Ascolta: Angels",
    "category": "concert",
    "start": "2026-12-05T18:00",
@@ -730,6 +762,7 @@
   },
   {
    "id": "2026-12-05-greenisle-christmaswiththeelvisspe",
+   "added": "2026-11-05",
    "title": "Christmas with The Elvis Spectacular",
    "category": "show",
    "start": "2026-12-05T18:30",
@@ -754,6 +787,7 @@
   },
   {
    "id": "2026-12-05-ccrathgar-rrpresentsarathgarchrist",
+   "added": "2026-11-05",
    "title": "R&R presents: A Rathgar Christmas",
    "category": "concert",
    "start": "2026-12-05T19:30",
@@ -777,6 +811,7 @@
   },
   {
    "id": "2026-12-05-maryimm-handelsmessiah",
+   "added": "2026-11-05",
    "title": "Handel's Messiah",
    "category": "concert",
    "start": "2026-12-05T19:30",
@@ -800,6 +835,7 @@
   },
   {
    "id": "2026-12-05-stpatricks-theguinnesschoirhandelsm",
+   "added": "2026-11-05",
    "title": "The Guinness Choir: Handel's Messiah",
    "category": "concert",
    "start": "2026-12-05T19:30",
@@ -823,6 +859,7 @@
   },
   {
    "id": "2026-12-05-stanns-achristmascelebrationsus",
+   "added": "2026-11-05",
    "title": "A Christmas Celebration — Susie Gibbons",
    "category": "concert",
    "start": "2026-12-05T19:30",
@@ -846,6 +883,7 @@
   },
   {
    "id": "2026-12-05-cccathedral-carolsforchristmaswithne",
+   "added": "2026-11-05",
    "title": "Carols for Christmas with New Dublin Voices",
    "category": "carols",
    "start": "2026-12-05T20:00",
@@ -869,6 +907,7 @@
   },
   {
    "id": "2026-12-05-stfinians-aneveningofseasonalsound",
+   "added": "2026-11-06",
    "title": "An Evening of Seasonal Sounds",
    "category": "concert",
    "start": "2026-12-05T20:00",
@@ -892,6 +931,7 @@
   },
   {
    "id": "2026-12-05-greenhills-christmasbycandlelightgr",
+   "added": "2026-11-06",
    "title": "Christmas by Candlelight, Greenhills",
    "category": "concert",
    "start": "2026-12-05T20:00",
@@ -916,6 +956,7 @@
   },
   {
    "id": "2026-12-05-lark-thelarkpantothelittlemer",
+   "added": "2026-11-10",
    "title": "The Lark Panto: The Little Mermaid",
    "category": "family",
    "start": "2026-12-05T19:30",
@@ -933,6 +974,7 @@
   },
   {
    "id": "2026-12-06-grandmalahide-bppacharitychristmasconc",
+   "added": "2026-11-06",
    "title": "BPPA Charity Christmas Concert",
    "category": "family",
    "start": "2026-12-06T13:00",
@@ -956,6 +998,7 @@
   },
   {
    "id": "2026-12-06-ucd-hibernianorchestrachrist",
+   "added": "2026-11-06",
    "title": "Hibernian Orchestra Christmas Concert",
    "category": "concert",
    "start": "2026-12-06T15:00",
@@ -978,6 +1021,7 @@
   },
   {
    "id": "2026-12-06-cmariners-interdenominationalcarol",
+   "added": "2026-11-06",
    "title": "Interdenominational Carol Service",
    "category": "carols",
    "start": "2026-12-06T18:00",
@@ -1001,6 +1045,7 @@
   },
   {
    "id": "2026-12-06-nch-achristmascelebrationdub",
+   "added": "2026-11-05",
    "title": "A Christmas Celebration — Dublin County Choir",
    "category": "concert",
    "start": "2026-12-06T19:00",
@@ -1025,6 +1070,7 @@
   },
   {
    "id": "2026-12-06-navanrd-christmasoholynightwitht",
+   "added": "2026-11-05",
    "title": "Christmas O Holy Night with The Three Tenors",
    "category": "concert",
    "start": "2026-12-06T19:30",
@@ -1048,6 +1094,7 @@
   },
   {
    "id": "2026-12-06-cccathedral-christmasatthemoviesbyca",
+   "added": "2026-11-05",
    "title": "Christmas at the Movies by Candlelight",
    "category": "concert",
    "start": "2026-12-06T20:00",
@@ -1072,6 +1119,7 @@
   },
   {
    "id": "2026-12-06-unitarian-narrative4christmasbenef",
+   "added": "2026-11-10",
    "title": "Narrative 4 Christmas Benefit with Colum McCann and Colm Mac Con Iomaire",
    "category": "concert",
    "start": "2026-12-06T19:30",
@@ -1088,6 +1136,7 @@
   },
   {
    "id": "2026-12-07-nch-handelsmessiah",
+   "added": "2026-11-06",
    "title": "Handel's Messiah",
    "category": "concert",
    "start": "2026-12-07T20:00",
@@ -1113,6 +1162,7 @@
   },
   {
    "id": "2026-12-07-draiocht-achristmascountrywiththe",
+   "added": "2026-11-06",
    "title": "A Christmas Country With the Stars",
    "category": "concert",
    "start": "2026-12-07T20:00",
@@ -1137,6 +1187,7 @@
   },
   {
    "id": "2026-12-08-nch-nsoichristmaslunchtime",
+   "added": "2026-11-06",
    "title": "NSOI Christmas Lunchtime",
    "category": "concert",
    "start": "2026-12-08T13:05",
@@ -1161,6 +1212,7 @@
   },
   {
    "id": "2026-12-08-cccathedral-peatacarolservice",
+   "added": "2026-11-06",
    "title": "PEATA Carol Service",
    "category": "carols",
    "start": "2026-12-08T13:15",
@@ -1184,6 +1236,7 @@
   },
   {
    "id": "2026-12-08-cccathedral-christmaswiththechoirofc",
+   "added": "2026-11-06",
    "title": "Christmas with the Choir of Christ Church Cathedral",
    "category": "concert",
    "start": "2026-12-08T20:30",
@@ -1208,6 +1261,7 @@
   },
   {
    "id": "2026-12-08-stadium-thestadiumpantoaladdin",
+   "added": "2026-11-10",
    "title": "The Stadium Panto: Aladdin",
    "category": "family",
    "start": "2026-12-08T19:30",
@@ -1225,6 +1279,7 @@
   },
   {
    "id": "2026-12-09-cccathedral-shopperscarolseurekakell",
+   "added": "2026-11-06",
    "title": "Shoppers' Carols — Eureka Kells",
    "category": "carols",
    "start": "2026-12-09T13:30",
@@ -1250,6 +1305,7 @@
   },
   {
    "id": "2026-12-09-cccathedral-christmaswiththechoirofc",
+   "added": "2026-11-06",
    "title": "Christmas with the Choir of Christ Church Cathedral",
    "category": "concert",
    "start": "2026-12-09T18:00",
@@ -1274,6 +1330,7 @@
   },
   {
    "id": "2026-12-09-stpatricks-christmasatthemovies",
+   "added": "2026-11-10",
    "title": "Christmas at the Movies",
    "category": "concert",
    "start": "2026-12-09T20:00",
@@ -1298,6 +1355,7 @@
   },
   {
    "id": "2026-12-10-cccathedral-christmaswiththechoirofc",
+   "added": "2026-11-05",
    "title": "Christmas with the Choir of Christ Church Cathedral",
    "category": "carols",
    "start": "2026-12-10T18:00",
@@ -1322,6 +1380,7 @@
   },
   {
    "id": "2026-12-10-lawsociety-calcuttarunchristmasconc",
+   "added": "2026-11-05",
    "title": "Calcutta Run Christmas Concert",
    "category": "concert",
    "start": "2026-12-10T19:30",
@@ -1346,6 +1405,7 @@
   },
   {
    "id": "2026-12-10-sacredheartdonny-hallelujahchristmasdonny",
+   "added": "2026-11-05",
    "title": "Hallelujah Christmas — Donnybrook",
    "category": "concert",
    "start": "2026-12-10T19:00",
@@ -1369,6 +1429,7 @@
   },
   {
    "id": "2026-12-10-nch-thewonderofchristmasthep",
+   "added": "2026-11-06",
    "title": "The Wonder of Christmas: The Palestrina Choir",
    "category": "concert",
    "start": "2026-12-10T20:00",
@@ -1393,6 +1454,7 @@
   },
   {
    "id": "2026-12-11-nch-christmaswithnewdublinvo",
+   "added": "2026-11-05",
    "title": "Christmas with New Dublin Voices",
    "category": "carols",
    "start": "2026-12-11T13:05",
@@ -1417,6 +1479,7 @@
   },
   {
    "id": "2026-12-11-newman-alightshinesinbethlehem",
+   "added": "2026-11-06",
    "title": "A Light Shines in Bethlehem",
    "category": "carols",
    "start": "2026-12-11T19:00",
@@ -1442,6 +1505,7 @@
   },
   {
    "id": "2026-12-11-kimmage-hallelujahchristmaskimma",
+   "added": "2026-11-05",
    "title": "Hallelujah Christmas — Kimmage Manor",
    "category": "concert",
    "start": "2026-12-11T19:30",
@@ -1465,6 +1529,7 @@
   },
   {
    "id": "2026-12-11-stpatricks-bachchristmasoratorio",
+   "added": "2026-11-05",
    "title": "Bach — Christmas Oratorio",
    "category": "concert",
    "start": "2026-12-11T19:30",
@@ -1487,6 +1552,7 @@
   },
   {
    "id": "2026-12-11-aughrim-thejoyofchristmas",
+   "added": "2026-11-06",
    "title": "The Joy of Christmas",
    "category": "concert",
    "start": "2026-12-11T19:30",
@@ -1510,6 +1576,7 @@
   },
   {
    "id": "2026-12-11-yellowwalls-enchiriadischoirchristma",
+   "added": "2026-11-06",
    "title": "Enchiriadis Choir Christmas Concert",
    "category": "concert",
    "start": "2026-12-11T19:30",
@@ -1532,6 +1599,7 @@
   },
   {
    "id": "2026-12-11-redcowinn-christmasspectacularwith",
+   "added": "2026-11-06",
    "title": "Christmas Spectacular with Dame Stuffy",
    "category": "show",
    "start": "2026-12-11T19:30",
@@ -1555,6 +1623,7 @@
   },
   {
    "id": "2026-12-11-whitefriar-noelnoel",
+   "added": "2026-11-06",
    "title": "Noel! Noel!",
    "category": "concert",
    "start": "2026-12-11T19:30",
@@ -1578,6 +1647,7 @@
   },
   {
    "id": "2026-12-11-pavilion-thebookshelfwithryantubr",
+   "added": "2026-11-10",
    "title": "The Bookshelf with Ryan Tubridy: Family Matinée",
    "category": "family",
    "start": "2026-12-11T16:00",
@@ -1602,6 +1672,7 @@
   },
   {
    "id": "2026-12-11-monkstownpc-storytimesongswithsantac",
+   "added": "2026-11-10",
    "title": "Storytime & Songs with Santa Claus & Helena the Storyteller",
    "category": "family",
    "start": "2026-12-11T18:00",
@@ -1617,6 +1688,7 @@
   },
   {
    "id": "2026-12-11-greenisle-christmaswithabbaesque",
+   "added": "2026-11-10",
    "title": "Christmas with ABBAesque",
    "category": "show",
    "start": "2026-12-11T18:30",
@@ -1641,6 +1713,7 @@
   },
   {
    "id": "2026-12-12-stbarts-noëlmorningtonsingerslun",
+   "added": "2026-11-05",
    "title": "Noël — Mornington Singers Lunchtime Concert",
    "category": "carols",
    "start": "2026-12-12T13:00",
@@ -1664,6 +1737,7 @@
   },
   {
    "id": "2026-12-12-newman-solasnanollaglightofchri",
+   "added": "2026-11-06",
    "title": "Solas na Nollag (Light of Christmas)",
    "category": "carols",
    "start": "2026-12-12T14:00",
@@ -1687,6 +1761,7 @@
   },
   {
    "id": "2026-12-12-imma-africangospelchoirdublin",
+   "added": "2026-11-06",
    "title": "African Gospel Choir Dublin",
    "category": "concert",
    "start": "2026-12-12T14:00",
@@ -1712,6 +1787,7 @@
   },
   {
    "id": "2026-12-12-trinity-crosschristmasconcert",
+   "added": "2026-11-05",
    "title": "CROSS Christmas Concert",
    "category": "carols",
    "start": "2026-12-12T16:30",
@@ -1736,6 +1812,7 @@
   },
   {
    "id": "2026-12-12-monkstown-anenchantedchristmas",
+   "added": "2026-11-06",
    "title": "An Enchanted Christmas",
    "category": "concert",
    "start": "2026-12-12T17:00",
@@ -1759,6 +1836,7 @@
   },
   {
    "id": "2026-12-12-bonnington-dublincityramblerschrist",
+   "added": "2026-11-05",
    "title": "Dublin City Ramblers Christmas Show",
    "category": "show",
    "start": "2026-12-12T19:00",
@@ -1783,6 +1861,7 @@
   },
   {
    "id": "2026-12-12-hendrick-acapellachristmas",
+   "added": "2026-11-06",
    "title": "Acapella Christmas",
    "category": "concert",
    "start": "2026-12-12T19:00",
@@ -1806,6 +1885,7 @@
   },
   {
    "id": "2026-12-12-sandford-dublingaymenschorusgifto",
+   "added": "2026-11-06",
    "title": "Dublin Gay Men's Chorus: Gift of Light",
    "category": "concert",
    "start": "2026-12-12T19:00",
@@ -1829,6 +1909,7 @@
   },
   {
    "id": "2026-12-12-cherrytree-theritzbrotherschristmas",
+   "added": "2026-11-05",
    "title": "The Ritz Brothers Christmas Special",
    "category": "show",
    "start": "2026-12-12T20:00",
@@ -1852,6 +1933,7 @@
   },
   {
    "id": "2026-12-12-cccathedral-carolsforchristmaswithne",
+   "added": "2026-11-05",
    "title": "Carols for Christmas with New Dublin Voices",
    "category": "carols",
    "start": "2026-12-12T20:00",
@@ -1875,6 +1957,7 @@
   },
   {
    "id": "2026-12-12-arthurs-nigelmooneyschristmasspe",
+   "added": "2026-11-06",
    "title": "Nigel Mooney's Christmas Special",
    "category": "concert",
    "start": "2026-12-12T21:00",
@@ -1897,6 +1980,7 @@
   },
   {
    "id": "2026-12-12-greenisle-christmaswithabbaesque",
+   "added": "2026-11-10",
    "title": "Christmas with ABBAesque",
    "category": "show",
    "start": "2026-12-12T18:30",
@@ -1921,6 +2005,7 @@
   },
   {
    "id": "2026-12-13-stpatricks-carolsforall",
+   "added": "2026-11-06",
    "title": "Carols for All",
    "category": "carols",
    "start": "2026-12-13T15:15",
@@ -1943,6 +2028,7 @@
   },
   {
    "id": "2026-12-13-allhallows-thegloryofchristmasstmar",
+   "added": "2026-11-06",
    "title": "The Glory of Christmas — St Mary's Cathedral Girls' Choir",
    "category": "carols",
    "start": "2026-12-13T15:30",
@@ -1965,6 +2051,7 @@
   },
   {
    "id": "2026-12-13-monkstown-dlcsmessiahforall",
+   "added": "2026-11-06",
    "title": "DLCS Messiah for All",
    "category": "concert",
    "start": "2026-12-13T17:00",
@@ -1989,6 +2076,7 @@
   },
   {
    "id": "2026-12-13-howth-hallelujahchristmashowth",
+   "added": "2026-11-05",
    "title": "Hallelujah Christmas — Howth",
    "category": "concert",
    "start": "2026-12-13T18:30",
@@ -2012,6 +2100,7 @@
   },
   {
    "id": "2026-12-13-sandford-dublingaymenschorusgifto",
+   "added": "2026-11-05",
    "title": "Dublin Gay Men's Chorus: Gift of Light",
    "category": "concert",
    "start": "2026-12-13T19:00",
@@ -2036,6 +2125,7 @@
   },
   {
    "id": "2026-12-13-castleknockolmc-thisholynight",
+   "added": "2026-11-06",
    "title": "This Holy Night",
    "category": "carols",
    "start": "2026-12-13T19:30",
@@ -2059,6 +2149,7 @@
   },
   {
    "id": "2026-12-13-whitefriar-themagicofchristmaswithm",
+   "added": "2026-11-05",
    "title": "The Magic of Christmas with Margaret Keys and the Priests",
    "category": "concert",
    "start": "2026-12-13T20:00",
@@ -2082,6 +2173,7 @@
   },
   {
    "id": "2026-12-13-cccathedral-aidlinkchristmascarolcon",
+   "added": "2026-11-05",
    "title": "Aidlink Christmas Carol Concert",
    "category": "carols",
    "start": "2026-12-13T20:00",
@@ -2105,6 +2197,7 @@
   },
   {
    "id": "2026-12-13-nch-kingsrejoycejoycedidonat",
+   "added": "2026-11-06",
    "title": "Kings ReJoyce! Joyce DiDonato & Kings Return",
    "category": "concert",
    "start": "2026-12-13T20:00",
@@ -2129,6 +2222,7 @@
   },
   {
    "id": "2026-12-13-unitarian-gloriesstreamingchristma",
+   "added": "2026-11-10",
    "title": "Glories Streaming: Christmas Concert",
    "category": "concert",
    "start": "2026-12-13T14:30",
@@ -2144,6 +2238,7 @@
   },
   {
    "id": "2026-12-13-stteresas-christmasoholynightwitht",
+   "added": "2026-11-10",
    "title": "Christmas O Holy Night with The Three Tenors",
    "category": "concert",
    "start": "2026-12-13T19:30",
@@ -2160,6 +2255,7 @@
   },
   {
    "id": "2026-12-14-nch-christmasatthemovies",
+   "added": "2026-11-05",
    "title": "Christmas at the Movies",
    "category": "concert",
    "start": "2026-12-14T15:00",
@@ -2184,6 +2280,7 @@
   },
   {
    "id": "2026-12-14-stpatricks-bubléchristmasbycandleli",
+   "added": "2026-11-06",
    "title": "Bublé Christmas By Candlelight",
    "category": "concert",
    "start": "2026-12-14T20:00",
@@ -2208,6 +2305,7 @@
   },
   {
    "id": "2026-12-14-whitefriar-christmaswithlaetare2026",
+   "added": "2026-11-10",
    "title": "Christmas with Laetare 2026",
    "category": "concert",
    "start": "2026-12-14T20:00",
@@ -2231,6 +2329,7 @@
   },
   {
    "id": "2026-12-15-nch-candlelitcarols",
+   "added": "2026-11-05",
    "title": "Candlelit Carols",
    "category": "carols",
    "start": "2026-12-15T15:00",
@@ -2255,6 +2354,7 @@
   },
   {
    "id": "2026-12-16-whitefriar-therampartsliveatchristm",
+   "added": "2026-11-05",
    "title": "The Ramparts — Live at Christmas",
    "category": "concert",
    "start": "2026-12-16T19:30",
@@ -2278,6 +2378,7 @@
   },
   {
    "id": "2026-12-16-cccathedral-aibchoirchristmasconcert",
+   "added": "2026-11-05",
    "title": "AIB Choir — Christmas Concert",
    "category": "concert",
    "start": "2026-12-16T20:00",
@@ -2301,6 +2402,7 @@
   },
   {
    "id": "2026-12-16-stpatricks-abbachristmasbycandlelig",
+   "added": "2026-11-06",
    "title": "ABBA Christmas By Candlelight",
    "category": "concert",
    "start": "2026-12-16T20:00",
@@ -2325,6 +2427,7 @@
   },
   {
    "id": "2026-12-16-nch-thegoethechoirchristmass",
+   "added": "2026-11-06",
    "title": "The Goethe Choir Christmas Special",
    "category": "concert",
    "start": "2026-12-16T20:00",
@@ -2348,6 +2451,7 @@
   },
   {
    "id": "2026-12-16-pavilion-eimearquinnsongsofwinter",
+   "added": "2026-11-06",
    "title": "Eimear Quinn: Songs of Winter Dreaming",
    "category": "concert",
    "start": "2026-12-16T20:00",
@@ -2372,6 +2476,7 @@
   },
   {
    "id": "2026-12-16-hensteeth-christmashootenannywithm",
+   "added": "2026-11-10",
    "title": "Christmas Hootenanny with Macdara Yeates",
    "category": "concert",
    "start": "2026-12-16T18:00",
@@ -2396,6 +2501,7 @@
   },
   {
    "id": "2026-12-17-nch-christmasgalawithclaudia",
+   "added": "2026-11-06",
    "title": "Christmas Gala with Claudia Boyle",
    "category": "concert",
    "start": "2026-12-17T15:00",
@@ -2420,6 +2526,7 @@
   },
   {
    "id": "2026-12-17-hensteeth-christmashootenannywithl",
+   "added": "2026-11-06",
    "title": "Christmas Hootenanny with Liam Winnett",
    "category": "show",
    "start": "2026-12-17T18:00",
@@ -2444,6 +2551,7 @@
   },
   {
    "id": "2026-12-17-skerries-hallelujahchristmasskerr",
+   "added": "2026-11-05",
    "title": "Hallelujah Christmas — Skerries",
    "category": "concert",
    "start": "2026-12-17T19:00",
@@ -2466,6 +2574,7 @@
   },
   {
    "id": "2026-12-17-maryimm-amagicaleveningofchristm",
+   "added": "2026-11-05",
    "title": "A Magical Evening of Christmas Carols",
    "category": "carols",
    "start": "2026-12-17T19:30",
@@ -2489,6 +2598,7 @@
   },
   {
    "id": "2026-12-17-stpatricks-handelmessiah",
+   "added": "2026-11-05",
    "title": "Handel — Messiah",
    "category": "concert",
    "start": "2026-12-17T19:30",
@@ -2512,6 +2622,7 @@
   },
   {
    "id": "2026-12-17-riam-irishchamberorchestrachr",
+   "added": "2026-11-05",
    "title": "Irish Chamber Orchestra: Christmas Magic",
    "category": "concert",
    "start": "2026-12-17T19:30",
@@ -2536,6 +2647,7 @@
   },
   {
    "id": "2026-12-17-adameve-singalongcarolswithfabre",
+   "added": "2026-11-06",
    "title": "Sing-Along Carols with Fabre Ensemble",
    "category": "carols",
    "start": "2026-12-17T19:30",
@@ -2558,6 +2670,7 @@
   },
   {
    "id": "2026-12-17-cccathedral-viennesechristmasspectac",
+   "added": "2026-11-05",
    "title": "Viennese Christmas Spectacular by Candlelight",
    "category": "concert",
    "start": "2026-12-17T20:00",
@@ -2581,6 +2694,7 @@
   },
   {
    "id": "2026-12-17-stanns-jubilochristmasconcert",
+   "added": "2026-11-05",
    "title": "Jubilo — Christmas Concert",
    "category": "concert",
    "start": "2026-12-17T20:00",
@@ -2603,6 +2717,7 @@
   },
   {
    "id": "2026-12-17-maldron-daveyoungunwrappedchrist",
+   "added": "2026-11-06",
    "title": "Dave Young \"Unwrapped\" Christmas Show",
    "category": "show",
    "start": "2026-12-17T20:00",
@@ -2627,6 +2742,7 @@
   },
   {
    "id": "2026-12-17-gonzaga-aserviceofreadingsandcar",
+   "added": "2026-11-10",
    "title": "A Service of Readings and Carols",
    "category": "carols",
    "start": "2026-12-17T19:30",
@@ -2644,6 +2760,7 @@
   },
   {
    "id": "2026-12-17-abbeypres-wintersongswinterstories",
+   "added": "2026-11-10",
    "title": "Winter Songs, Winter Stories",
    "category": "carols",
    "start": "2026-12-17T19:00",
@@ -2659,6 +2776,7 @@
   },
   {
    "id": "2026-12-17-axis-beautythebeastaxispanto",
+   "added": "2026-11-10",
    "title": "Beauty & The Beast: Axis Panto",
    "category": "family",
    "start": "2026-12-17T19:30",
@@ -2676,6 +2794,7 @@
   },
   {
    "id": "2026-12-18-nch-thiswaytochristmasfeatur",
+   "added": "2026-11-05",
    "title": "This Way to Christmas! Featuring The Snowman",
    "category": "family",
    "start": "2026-12-18T15:30",
@@ -2701,6 +2820,7 @@
   },
   {
    "id": "2026-12-18-draiocht-missionsantacrackthechri",
+   "added": "2026-11-06",
    "title": "Mission Santa: Crack the Christmas Code!",
    "category": "family",
    "start": "2026-12-18T16:00",
@@ -2725,6 +2845,7 @@
   },
   {
    "id": "2026-12-18-huntstown-hallelujahchristmashunts",
+   "added": "2026-11-05",
    "title": "Hallelujah Christmas — Huntstown",
    "category": "concert",
    "start": "2026-12-18T19:00",
@@ -2747,6 +2868,7 @@
   },
   {
    "id": "2026-12-18-sttherese-thejoyofchristmas",
+   "added": "2026-11-06",
    "title": "The Joy of Christmas",
    "category": "concert",
    "start": "2026-12-18T19:30",
@@ -2770,6 +2892,7 @@
   },
   {
    "id": "2026-12-18-stpatricks-asaintpatrickscathedralc",
+   "added": "2026-11-06",
    "title": "A Saint Patrick's Cathedral Christmas",
    "category": "concert",
    "start": "2026-12-18T19:30",
@@ -2794,6 +2917,7 @@
   },
   {
    "id": "2026-12-18-pavilion-theveryhungrycaterpillar",
+   "added": "2026-11-06",
    "title": "The Very Hungry Caterpillar Christmas Show",
    "category": "family",
    "start": "2026-12-18T15:30",
@@ -2819,6 +2943,7 @@
   },
   {
    "id": "2026-12-18-cccathedral-dublinyouthchoirchristma",
+   "added": "2026-11-05",
    "title": "Dublin Youth Choir: Christmas with DYC",
    "category": "concert",
    "start": "2026-12-18T20:00",
@@ -2842,6 +2967,7 @@
   },
   {
    "id": "2026-12-18-swords-ocomeallyefingal",
+   "added": "2026-11-06",
    "title": "O Come, All Ye Fingal!",
    "category": "carols",
    "start": "2026-12-18T20:00",
@@ -2865,6 +2991,7 @@
   },
   {
    "id": "2026-12-18-gardinerst-christmasoholynightwitht",
+   "added": "2026-11-10",
    "title": "Christmas O Holy Night with The Three Tenors",
    "category": "concert",
    "start": "2026-12-18T19:30",
@@ -2881,6 +3008,7 @@
   },
   {
    "id": "2026-12-18-greenisle-christmaspartytinaturner",
+   "added": "2026-11-10",
    "title": "Christmas Party: Tina Turner Tribute",
    "category": "show",
    "start": "2026-12-18T18:30",
@@ -2904,6 +3032,7 @@
   },
   {
    "id": "2026-12-19-oreilly-christmasclassicsbytchai",
+   "added": "2026-11-05",
    "title": "Christmas Classics by Tchaikovsky",
    "category": "concert",
    "start": "2026-12-19T18:00",
@@ -2928,6 +3057,7 @@
   },
   {
    "id": "2026-12-19-newman-wintershousechamberchoir",
+   "added": "2026-11-06",
    "title": "Winter's House — Chamber Choir Ireland",
    "category": "concert",
    "start": "2026-12-19T18:30",
@@ -2951,6 +3081,7 @@
   },
   {
    "id": "2026-12-19-redcow-mammamiathelivechristmas",
+   "added": "2026-11-05",
    "title": "Mamma Mia — The Live Christmas Experience",
    "category": "show",
    "start": "2026-12-19T19:30",
@@ -2974,6 +3105,7 @@
   },
   {
    "id": "2026-12-19-stmaryshadd-christmaswithcuore",
+   "added": "2026-11-05",
    "title": "Christmas with Cuore",
    "category": "carols",
    "start": "2026-12-19T19:30",
@@ -2998,6 +3130,7 @@
   },
   {
    "id": "2026-12-19-erinsisle-jacknicosannualcharitych",
+   "added": "2026-11-05",
    "title": "Jack Nico's Annual Charity Christmas Gig",
    "category": "show",
    "start": "2026-12-19T19:30",
@@ -3020,6 +3153,7 @@
   },
   {
    "id": "2026-12-19-draiocht-adublingospelchristmas",
+   "added": "2026-11-05",
    "title": "A Dublin Gospel Christmas",
    "category": "concert",
    "start": "2026-12-19T19:30",
@@ -3044,6 +3178,7 @@
   },
   {
    "id": "2026-12-19-monkstown-christmasclassicswithpau",
+   "added": "2026-11-06",
    "title": "Christmas Classics with Paul Byrom",
    "category": "concert",
    "start": "2026-12-19T19:30",
@@ -3067,6 +3202,7 @@
   },
   {
    "id": "2026-12-19-stpatricks-agloriouschristmas",
+   "added": "2026-11-05",
    "title": "A Glorious Christmas",
    "category": "concert",
    "start": "2026-12-19T20:00",
@@ -3089,6 +3225,7 @@
   },
   {
    "id": "2026-12-19-cccathedral-noëlmorningtonsingerschr",
+   "added": "2026-11-05",
    "title": "Noël — Mornington Singers Christmas Concert",
    "category": "carols",
    "start": "2026-12-19T20:00",
@@ -3112,6 +3249,7 @@
   },
   {
    "id": "2026-12-19-oreilly-christmasclassicsbytimbu",
+   "added": "2026-11-05",
    "title": "Christmas Classics by Tim Burton",
    "category": "concert",
    "start": "2026-12-19T20:00",
@@ -3136,6 +3274,7 @@
   },
   {
    "id": "2026-12-19-greenisle-christmaswiththegarthbro",
+   "added": "2026-11-10",
    "title": "Christmas with the Garth Brooks Experience",
    "category": "show",
    "start": "2026-12-19T18:30",
@@ -3160,6 +3299,7 @@
   },
   {
    "id": "2026-12-19-olympia-cinderellaollyandtheglas",
+   "added": "2026-11-10",
    "title": "Cinderella: Olly and the Glass Slipper",
    "category": "family",
    "start": "2026-12-19T19:30",
@@ -3177,6 +3317,7 @@
   },
   {
    "id": "2026-12-20-tallaghttheatre-santassupershow",
+   "added": "2026-11-06",
    "title": "Santa's SuperShow",
    "category": "family",
    "start": "2026-12-20T14:30",
@@ -3200,6 +3341,7 @@
   },
   {
    "id": "2026-12-20-stpatricks-serviceofninelessonsandc",
+   "added": "2026-11-06",
    "title": "Service of Nine Lessons and Carols",
    "category": "carols",
    "start": "2026-12-20T15:15",
@@ -3223,6 +3365,7 @@
   },
   {
    "id": "2026-12-20-peppercanister-harkhearthebells",
+   "added": "2026-11-06",
    "title": "Hark, Hear The Bells!",
    "category": "concert",
    "start": "2026-12-20T18:00",
@@ -3246,6 +3389,7 @@
   },
   {
    "id": "2026-12-20-3arena-homealoneinconcert",
+   "added": "2026-11-06",
    "title": "Home Alone in Concert",
    "category": "concert",
    "start": "2026-12-20T18:30",
@@ -3270,6 +3414,7 @@
   },
   {
    "id": "2026-12-20-clontarf-hallelujahchristmasclont",
+   "added": "2026-11-06",
    "title": "Hallelujah Christmas — Clontarf",
    "category": "concert",
    "start": "2026-12-20T19:00",
@@ -3293,6 +3438,7 @@
   },
   {
    "id": "2026-12-21-nch-nsoichristmaslunchtime",
+   "added": "2026-11-06",
    "title": "NSOI Christmas Lunchtime",
    "category": "concert",
    "start": "2026-12-21T13:05",
@@ -3316,6 +3462,7 @@
   },
   {
    "id": "2026-12-21-peppercanister-yulefestchristmascarols",
+   "added": "2026-11-06",
    "title": "Yulefest! Christmas Carols",
    "category": "carols",
    "start": "2026-12-21T17:30",
@@ -3339,6 +3486,7 @@
   },
   {
    "id": "2026-12-21-cccathedral-ninelessonscarols",
+   "added": "2026-11-06",
    "title": "Nine Lessons & Carols",
    "category": "carols",
    "start": "2026-12-21T18:00",
@@ -3361,6 +3509,7 @@
   },
   {
    "id": "2026-12-21-3arena-homealoneinconcert",
+   "added": "2026-11-06",
    "title": "Home Alone in Concert",
    "category": "concert",
    "start": "2026-12-21T18:30",
@@ -3385,6 +3534,7 @@
   },
   {
    "id": "2026-12-21-stpatricks-christmasbycandlelight",
+   "added": "2026-11-05",
    "title": "Christmas by Candlelight",
    "category": "concert",
    "start": "2026-12-21T20:00",
@@ -3409,6 +3559,7 @@
   },
   {
    "id": "2026-12-21-nch-thegreatchristmasconcert",
+   "added": "2026-11-05",
    "title": "The Great Christmas Concert",
    "category": "concert",
    "start": "2026-12-21T20:00",
@@ -3433,6 +3584,7 @@
   },
   {
    "id": "2026-12-21-peppercanister-yuletidechristmascarols",
+   "added": "2026-11-06",
    "title": "Yuletide! Christmas Carols",
    "category": "carols",
    "start": "2026-12-21T20:00",
@@ -3456,6 +3608,7 @@
   },
   {
    "id": "2026-12-22-nch-achristmascelebrationwit",
+   "added": "2026-11-05",
    "title": "A Christmas Celebration with Cór na nÓg and Cór Linn",
    "category": "concert",
    "start": "2026-12-22T19:00",
@@ -3480,6 +3633,7 @@
   },
   {
    "id": "2026-12-22-ambassador-rapunzel",
+   "added": "2026-11-10",
    "title": "Rapunzel",
    "category": "family",
    "start": "2026-12-22T19:30",
@@ -3497,6 +3651,7 @@
   },
   {
    "id": "2026-12-23-mansionhouse-acladdaghchristmasbycand",
+   "added": "2026-11-06",
    "title": "A Claddagh Christmas by Candlelight",
    "category": "carols",
    "start": "2026-12-23T14:00",
@@ -3520,6 +3675,7 @@
   },
   {
    "id": "2026-12-23-stpatricks-thesnowman",
+   "added": "2026-11-10",
    "title": "The Snowman",
    "category": "family",
    "start": "2026-12-23T16:00",
@@ -3545,6 +3701,7 @@
   },
   {
    "id": "2026-12-24-stpatricks-christmasevelessonsandca",
+   "added": "2026-11-05",
    "title": "Christmas Eve Lessons and Carols",
    "category": "carols",
    "start": "2026-12-24T16:00",
@@ -3568,6 +3725,7 @@
   },
   {
    "id": "2026-12-28-nch-simplysinatrainthemoodfo",
+   "added": "2026-11-06",
    "title": "Simply Sinatra: In the Mood for Christmas",
    "category": "concert",
    "start": "2026-12-28T15:00",
@@ -3592,6 +3750,7 @@
   },
   {
    "id": "tbc-annunciation-rathfarnhamparishcarolse",
+   "added": "2026-11-05",
    "title": "Rathfarnham Parish Carol Service",
    "category": "carols",
    "venue": {
@@ -3613,6 +3772,7 @@
   },
   {
    "id": "tbc-ballyroan-carolsbycandlelightbally",
+   "added": "2026-11-05",
    "title": "Carols by Candlelight, Ballyroan",
    "category": "carols",
    "venue": {
@@ -3634,6 +3794,7 @@
   },
   {
    "id": "tbc-ccrathgar-rathgarterenurefestivalo",
+   "added": "2026-11-05",
    "title": "Rathgar & Terenure Festival of Christmas Carols",
    "category": "carols",
    "venue": {
@@ -3655,6 +3816,7 @@
   },
   {
    "id": "tbc-zion-adventcarolservicezionch",
+   "added": "2026-11-05",
    "title": "Advent Carol Service, Zion Church",
    "category": "carols",
    "venue": {
@@ -3676,6 +3838,7 @@
   },
   {
    "id": "tbc-stcolumbas-knocklyonconcertbandchri",
+   "added": "2026-11-05",
    "title": "Knocklyon Concert Band Christmas Concert",
    "category": "concert",
    "venue": {
@@ -3697,6 +3860,7 @@
   },
   {
    "id": "tbc-marlay-ecumenicalcarolservicein",
+   "added": "2026-11-05",
    "title": "Ecumenical Carol Service in the Courtyard",
    "category": "carols",
    "venue": {
