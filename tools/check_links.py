@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Checks every event's link in events.json and flags the ones that have gone.
 
-- A dead link gets "Listing removed." at the start of the event's notes and a
-  "linkGone" date, so the app shows it.
-- If the link is still dead GRACE_DAYS later, the event is dropped from the feed.
-  (The Claude update task looks for relistings in between.)
+- A dead link gets "Listing not found, check before going." at the start of the
+  event's notes and a "linkGone" date, so the app can show it. Nothing is ever
+  removed from the feed; Paul decides.
+- The Claude update task looks for relistings of flagged events.
 - A link that works again has its flag cleared.
 - Blocked, rate-limited or timed-out checks count as "unknown" and change nothing.
 """
@@ -17,8 +17,8 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
 FEED = "events.json"
-GRACE_DAYS = 4
-MARK = "Listing removed."
+MARK = "Listing not found, check before going."
+OLD_MARKS = ("Listing removed.",)
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 GONE_TEXT = (
@@ -77,25 +77,26 @@ def main() -> int:
     with ThreadPoolExecutor(max_workers=8) as pool:
         results = list(pool.map(lambda e: check(e["url"]), events))
 
+    def strip_marks(notes: str) -> str:
+        for m in (MARK, *OLD_MARKS):
+            if notes.startswith(m):
+                return notes[len(m):].strip()
+        return notes
+
     kept, marked, cleared, dropped = [], [], [], []
     for e, status in zip(events, results):
         notes = e.get("notes", "")
         if status == "gone":
-            since = e.get("linkGone")
-            if since and (today - dt.date.fromisoformat(since)).days >= GRACE_DAYS:
-                dropped.append(e["title"])
-                continue
-            if not since:
+            if not e.get("linkGone"):
                 e["linkGone"] = today.isoformat()
-                if not notes.startswith(MARK):
-                    e["notes"] = f"{MARK} {notes}".strip()
                 marked.append(e["title"])
+            rest = strip_marks(notes)
+            e["notes"] = f"{MARK} {rest}".strip()
         elif status == "ok" and e.get("linkGone"):
             e.pop("linkGone")
-            if notes.startswith(MARK):
-                e["notes"] = notes[len(MARK):].strip()
-                if not e["notes"]:
-                    e.pop("notes")
+            e["notes"] = strip_marks(notes)
+            if not e["notes"]:
+                e.pop("notes")
             cleared.append(e["title"])
         kept.append(e)
 
@@ -120,17 +121,18 @@ def main() -> int:
 
     unknown = sum(1 for r in results if r == "unknown")
     print(f"Checked {len(events)} links: {results.count('ok')} ok, {results.count('gone')} gone, {unknown} couldn't be checked.")
-    for label, items in (("Marked as removed", marked), ("Working again", cleared), ("Dropped", dropped)):
+    for label, items in (("Not found", marked), ("Working again", cleared)):
         for t in items:
             print(f"{label}: {t}")
 
-    if marked or cleared or dropped:
+    changed = json.dumps(kept, sort_keys=True) != json.dumps(json.load(open(FEED, encoding="utf-8"))["events"], sort_keys=True)
+    if changed:
         feed["events"] = kept
         with open(FEED, "w", encoding="utf-8") as f:
             json.dump(feed, f, ensure_ascii=False, indent=1)
             f.write("\n")
         with open("link-check-summary.txt", "w") as f:
-            parts = [f"{len(marked)} removed", f"{len(cleared)} back", f"{len(dropped)} dropped"]
+            parts = [f"{len(marked)} not found", f"{len(cleared)} working again"]
             f.write("Link check: " + ", ".join(parts))
     return 0
 
