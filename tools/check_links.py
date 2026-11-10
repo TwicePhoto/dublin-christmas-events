@@ -22,7 +22,7 @@ MARK = "Listing removed."
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 GONE_TEXT = (
-    "we can't find what you were looking for",   # Eventbrite
+    "something went wrong",   # Eventbrite's missing-event page
     "this event has ended",
     "page not found",
     "event not found",
@@ -47,9 +47,9 @@ def _check(url: str) -> str:
             body = r.read(400_000).decode("utf-8", "ignore").lower()
     except urllib.error.HTTPError as e:
         DETAILS[url] = f"HTTP {e.code} final={e.geturl()}"
+        # Only a definite "not found" counts. Blocks (403/405), rate limits and
+        # server errors say nothing about whether the event still exists.
         if e.code in (404, 410):
-            return "gone"
-        if e.code == 400 and "eventbrite." in url:
             return "gone"
         return "unknown"
     except Exception as e:
@@ -60,10 +60,10 @@ def _check(url: str) -> str:
     # Eventbrite sends removed events to a search or error page.
     if "eventbrite." in url and "/e/" in url and "/e/" not in final:
         return "gone"
-    title = body.split("<title", 1)[-1][:300] if "<title" in body else ""
+    # Look at the page title only: the page's code can contain error wording
+    # (Eventbrite's does) even when the event is live.
+    title = body.split("<title", 1)[-1].split("</title", 1)[0][:300] if "<title" in body else ""
     if any(t in title for t in GONE_TEXT):
-        return "gone"
-    if "eventbrite." in url and "we can't find what you were looking for" in body:
         return "gone"
     return "ok"
 
@@ -108,6 +108,15 @@ def main() -> int:
             print(f"[ok sample] {e['url']} | {DETAILS.get(e['url'])}")
         print(f"Report only: {results.count('ok')} ok, {results.count('gone')} gone, {results.count('unknown')} unknown")
         return 0
+
+    # Safety: if lots of links look dead at once, the check itself is probably
+    # being blocked or has broken, so change nothing and fail loudly.
+    if results.count("gone") > max(5, len(events) // 10):
+        print(f"Refusing to change anything: {results.count('gone')} of {len(events)} links look dead at once.")
+        for e, status in zip(events, results):
+            if status == "gone":
+                print(f"  {e['title']} | {DETAILS.get(e['url'])}")
+        return 1
 
     unknown = sum(1 for r in results if r == "unknown")
     print(f"Checked {len(events)} links: {results.count('ok')} ok, {results.count('gone')} gone, {unknown} couldn't be checked.")

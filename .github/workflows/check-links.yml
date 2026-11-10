@@ -22,8 +22,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Check every event's link
-        env:
-          REPORT_ONLY: "1"   # testing: report what it finds, change nothing
         run: python3 tools/check_links.py
       - name: Save changes to the feed
         run: |
