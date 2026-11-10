@@ -10,6 +10,7 @@
 """
 import datetime as dt
 import json
+import os
 import sys
 import urllib.error
 import urllib.request
@@ -29,7 +30,15 @@ GONE_TEXT = (
 )
 
 
+DETAILS = {}
+
+
 def check(url: str) -> str:
+    status = _check(url)
+    return status
+
+
+def _check(url: str) -> str:
     """Returns 'ok', 'gone' or 'unknown'."""
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "en-IE,en"})
     try:
@@ -37,13 +46,16 @@ def check(url: str) -> str:
             final = r.geturl()
             body = r.read(400_000).decode("utf-8", "ignore").lower()
     except urllib.error.HTTPError as e:
+        DETAILS[url] = f"HTTP {e.code} final={e.geturl()}"
         if e.code in (404, 410):
             return "gone"
         if e.code == 400 and "eventbrite." in url:
             return "gone"
         return "unknown"
-    except Exception:
+    except Exception as e:
+        DETAILS[url] = f"error {type(e).__name__}: {e}"
         return "unknown"
+    DETAILS[url] = f"200 final={final} title={(body.split('<title', 1)[-1][:120] if '<title' in body else '').strip()!r}"
 
     # Eventbrite sends removed events to a search or error page.
     if "eventbrite." in url and "/e/" in url and "/e/" not in final:
@@ -86,6 +98,16 @@ def main() -> int:
                     e.pop("notes")
             cleared.append(e["title"])
         kept.append(e)
+
+    if os.environ.get("REPORT_ONLY"):
+        for e, status in zip(events, results):
+            if status != "ok":
+                print(f"[{status}] {e['title']} | {e['url']} | {DETAILS.get(e['url'])}")
+        oks = [e for e, s in zip(events, results) if s == "ok" and "eventbrite." in e["url"]][:3]
+        for e in oks:
+            print(f"[ok sample] {e['url']} | {DETAILS.get(e['url'])}")
+        print(f"Report only: {results.count('ok')} ok, {results.count('gone')} gone, {results.count('unknown')} unknown")
+        return 0
 
     unknown = sum(1 for r in results if r == "unknown")
     print(f"Checked {len(events)} links: {results.count('ok')} ok, {results.count('gone')} gone, {unknown} couldn't be checked.")

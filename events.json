@@ -313,8 +313,7 @@
     "lon": -6.23819
    },
    "url": "https://www.eventbrite.co.uk/e/taneys-walking-nativity-experience-tickets-2004184413532",
-   "notes": "Listing removed. Sold out. Outdoor walking nativity with carols; doors 1:50pm.",
-   "linkGone": "2026-11-10"
+   "notes": "Sold out. Outdoor walking nativity with carols; doors 1:50pm."
   },
   {
    "id": "2026-11-30-nch-jinglealltheway",
@@ -482,7 +481,7 @@
     "lon": -6.2416136
    },
    "url": "https://www.eventbrite.ie/e/celtic-christmas-tickets-2003978209771",
-   "notes": "Listing removed. Urú Duo with student guests.",
+   "notes": "Urú Duo with student guests.",
    "drive": {
     "km": 6.9,
     "minutes": 25
@@ -490,8 +489,7 @@
    "transit": {
     "minutes": 48,
     "routes": "15A, S2"
-   },
-   "linkGone": "2026-11-10"
+   }
   },
   {
    "id": "2026-12-03-newman-choralscholarsachoralcel",
@@ -678,7 +676,7 @@
     "lon": -6.4484553
    },
    "url": "https://www.eventbrite.ie/e/the-merriest-of-music-tickets-2004234706961",
-   "notes": "Listing removed. Four young singers with piano: carols and operatic classics.",
+   "notes": "Four young singers with piano: carols and operatic classics.",
    "drive": {
     "km": 15.9,
     "minutes": 19
@@ -686,8 +684,7 @@
    "transit": {
     "minutes": 90,
     "routes": "F2, C4"
-   },
-   "linkGone": "2026-11-10"
+   }
   },
   {
    "id": "2026-12-05-mill-pinocchio",
@@ -754,7 +751,7 @@
    },
    "url": "https://www.eventbrite.ie/e/ascolta-angels-tickets-2002378529083",
    "price": "€13–€17",
-   "notes": "Listing removed. Eight-voice ensemble; in aid of the Alzheimer Society. Tickets also at the door.",
+   "notes": "Eight-voice ensemble; in aid of the Alzheimer Society. Tickets also at the door.",
    "drive": {
     "km": 6.7,
     "minutes": 22
@@ -762,8 +759,7 @@
    "transit": {
     "minutes": 32,
     "routes": "F2"
-   },
-   "linkGone": "2026-11-10"
+   }
   },
   {
    "id": "2026-12-05-greenisle-christmaswiththeelvisspe",
@@ -787,9 +783,8 @@
     "minutes": 60,
     "routes": "82, S4, 69"
    },
-   "notes": "Listing removed. Ticket includes finger food or a three-course meal.",
-   "price": "€44.95–€69.95",
-   "linkGone": "2026-11-10"
+   "notes": "Ticket includes finger food or a three-course meal.",
+   "price": "€44.95–€69.95"
   },
   {
    "id": "2026-12-05-ccrathgar-rrpresentsarathgarchrist",
@@ -1498,7 +1493,7 @@
    },
    "url": "https://www.eventbrite.com/e/a-light-shines-in-bethlehem-with-the-newman-vocare-ensemble-tickets-2003261348620",
    "price": "Free",
-   "notes": "Listing removed. Newman Vocare Ensemble; collection for ALONE. No tickets, arrive early.",
+   "notes": "Newman Vocare Ensemble; collection for ALONE. No tickets, arrive early.",
    "free": true,
    "drive": {
     "km": 6.7,
@@ -1507,8 +1502,7 @@
    "transit": {
     "minutes": 32,
     "routes": "F2"
-   },
-   "linkGone": "2026-11-10"
+   }
   },
   {
    "id": "2026-12-11-kimmage-hallelujahchristmaskimma",
@@ -1555,9 +1549,7 @@
    "transit": {
     "minutes": 33,
     "routes": "15A, F3"
-   },
-   "linkGone": "2026-11-10",
-   "notes": "Listing removed."
+   }
   },
   {
    "id": "2026-12-11-aughrim-thejoyofchristmas",
@@ -1710,7 +1702,7 @@
    },
    "url": "https://www.eventbrite.ie/e/christmas-with-abbaesque-a-night-of-nostalgia-and-glamour-night-1-tickets-1986210611406",
    "price": "€44.95–€69.95",
-   "notes": "Listing removed. ABBA tribute Christmas party night with food. Also on 12 Dec.",
+   "notes": "ABBA tribute Christmas party night with food. Also on 12 Dec.",
    "drive": {
     "km": 7.9,
     "minutes": 24
@@ -1718,8 +1710,7 @@
    "transit": {
     "minutes": 60,
     "routes": "82, S4, 69"
-   },
-   "linkGone": "2026-11-10"
+   }
   },
   {
    "id": "2026-12-12-stbarts-noëlmorningtonsingerslun",
@@ -1743,8 +1734,7 @@
     "minutes": 51,
     "routes": "15A, S2"
    },
-   "notes": "Listing removed. Almost full.",
-   "linkGone": "2026-11-10"
+   "notes": "Almost full."
   },
   {
    "id": "2026-12-12-newman-solasnanollaglightofchri",
@@ -1868,8 +1858,7 @@
     "routes": "15A, F3, 16"
    },
    "price": "€55",
-   "notes": "Listing removed. Dinner and show.",
-   "linkGone": "2026-11-10"
+   "notes": "Dinner and show."
   },
   {
    "id": "2026-12-12-hendrick-acapellachristmas",
@@ -2005,7 +1994,7 @@
    },
    "url": "https://www.eventbrite.ie/e/christmas-with-abbaesque-a-night-of-nostalgia-and-glamour-night-2-tickets-1986211180107",
    "price": "€44.95–€69.95",
-   "notes": "Listing removed. ABBA tribute Christmas party night with food.",
+   "notes": "ABBA tribute Christmas party night with food.",
    "drive": {
     "km": 7.9,
     "minutes": 24
@@ -2013,8 +2002,7 @@
    "transit": {
     "minutes": 60,
     "routes": "82, S4, 69"
-   },
-   "linkGone": "2026-11-10"
+   }
   },
   {
    "id": "2026-12-13-stpatricks-carolsforall",
@@ -2077,7 +2065,7 @@
    },
    "url": "https://www.eventbrite.ie/e/dlcs-messiah-for-all-tickets-2001236297638",
    "price": "€30",
-   "notes": "Listing removed. Sing-along Messiah with Dun Laoghaire Consort; bring a score.",
+   "notes": "Sing-along Messiah with Dun Laoghaire Consort; bring a score.",
    "drive": {
     "km": 17.9,
     "minutes": 27
@@ -2085,8 +2073,7 @@
    "transit": {
     "minutes": 82,
     "routes": "F2, 7"
-   },
-   "linkGone": "2026-11-10"
+   }
   },
   {
    "id": "2026-12-13-howth-hallelujahchristmashowth",
@@ -2183,8 +2170,7 @@
     "minutes": 40,
     "routes": "15A"
    },
-   "notes": "Listing removed. Doors 7:30pm.",
-   "linkGone": "2026-11-10"
+   "notes": "Doors 7:30pm."
   },
   {
    "id": "2026-12-13-cccathedral-aidlinkchristmascarolcon",
@@ -2413,9 +2399,7 @@
     "minutes": 38,
     "routes": "150"
    },
-   "price": "€15–€25",
-   "linkGone": "2026-11-10",
-   "notes": "Listing removed."
+   "price": "€15–€25"
   },
   {
    "id": "2026-12-16-stpatricks-abbachristmasbycandlelig",
@@ -2635,9 +2619,7 @@
     "minutes": 33,
     "routes": "15A, F3"
    },
-   "price": "€10–€55",
-   "linkGone": "2026-11-10",
-   "notes": "Listing removed."
+   "price": "€10–€55"
   },
   {
    "id": "2026-12-17-riam-irishchamberorchestrachr",
@@ -3039,7 +3021,7 @@
     "lon": -6.4030552
    },
    "url": "https://www.eventbrite.ie/e/christmas-party-tina-turner-tribute-proud-mary-city-limits-band-tickets-1986211416815",
-   "notes": "Listing removed. Proud Mary & City Limits Band; Christmas party night with food.",
+   "notes": "Proud Mary & City Limits Band; Christmas party night with food.",
    "drive": {
     "km": 7.9,
     "minutes": 24
@@ -3047,8 +3029,7 @@
    "transit": {
     "minutes": 60,
     "routes": "82, S4, 69"
-   },
-   "linkGone": "2026-11-10"
+   }
   },
   {
    "id": "2026-12-19-oreilly-christmasclassicsbytchai",
@@ -3146,8 +3127,7 @@
     "routes": "15A, S2"
    },
    "price": "From €11.70",
-   "notes": "Listing removed. Festive carol concert with Cuore Chamber Choir.",
-   "linkGone": "2026-11-10"
+   "notes": "Festive carol concert with Cuore Chamber Choir."
   },
   {
    "id": "2026-12-19-erinsisle-jacknicosannualcharitych",
@@ -3211,7 +3191,7 @@
     "lon": -6.1531776
    },
    "url": "https://www.eventbrite.ie/e/christmas-classics-with-paul-byrom-tickets-1994149048485",
-   "notes": "Listing removed. Carols and singalongs with his band.",
+   "notes": "Carols and singalongs with his band.",
    "drive": {
     "km": 17.9,
     "minutes": 27
@@ -3219,8 +3199,7 @@
    "transit": {
     "minutes": 82,
     "routes": "F2, 7"
-   },
-   "linkGone": "2026-11-10"
+   }
   },
   {
    "id": "2026-12-19-stpatricks-agloriouschristmas",
@@ -3267,8 +3246,7 @@
     "minutes": 38,
     "routes": "150"
    },
-   "notes": "Listing removed. Going fast.",
-   "linkGone": "2026-11-10"
+   "notes": "Going fast."
   },
   {
    "id": "2026-12-19-oreilly-christmasclassicsbytimbu",
@@ -3310,7 +3288,7 @@
    },
    "url": "https://www.eventbrite.ie/e/christmas-with-the-garth-brooks-experience-friends-in-low-places-tickets-1986902504878",
    "price": "€44.95–€69.95",
-   "notes": "Listing removed. Tribute Christmas party night with food.",
+   "notes": "Tribute Christmas party night with food.",
    "drive": {
     "km": 7.9,
     "minutes": 24
@@ -3318,8 +3296,7 @@
    "transit": {
     "minutes": 60,
     "routes": "82, S4, 69"
-   },
-   "linkGone": "2026-11-10"
+   }
   },
   {
    "id": "2026-12-19-olympia-cinderellaollyandtheglas",
@@ -3498,7 +3475,7 @@
     "lon": -6.2439386
    },
    "url": "https://www.eventbrite.ie/e/yulefest-a-festive-evening-of-christmas-carols-and-seasonal-cheer-tickets-2004359299621",
-   "notes": "Listing removed. Continuum Youth Choir.",
+   "notes": "Continuum Youth Choir.",
    "drive": {
     "km": 6.9,
     "minutes": 24
@@ -3506,8 +3483,7 @@
    "transit": {
     "minutes": 48,
     "routes": "F2, 38"
-   },
-   "linkGone": "2026-11-10"
+   }
   },
   {
    "id": "2026-12-21-cccathedral-ninelessonscarols",
@@ -3621,7 +3597,7 @@
     "lon": -6.2439386
    },
    "url": "https://www.eventbrite.ie/e/yuletide-a-festive-evening-of-christmas-carols-and-seasonal-cheer-tickets-2004396685443",
-   "notes": "Listing removed. Continuum Youth Choir.",
+   "notes": "Continuum Youth Choir.",
    "drive": {
     "km": 6.9,
     "minutes": 24
@@ -3629,8 +3605,7 @@
    "transit": {
     "minutes": 48,
     "routes": "F2, 38"
-   },
-   "linkGone": "2026-11-10"
+   }
   },
   {
    "id": "2026-12-22-nch-achristmascelebrationwit",
