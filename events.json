@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-12",
  "home": {
   "label": "D6W ED98",
   "lat": 53.30608,
@@ -316,6 +316,30 @@
    "notes": "Sold out. Outdoor walking nativity with carols; doors 1:50pm."
   },
   {
+   "id": "2026-11-29-sandford-stellarchoirchristmascon",
+   "added": "2026-11-12",
+   "title": "Stellar Choir Christmas Concert 2026",
+   "category": "concert",
+   "start": "2026-11-29T18:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Sandford Parish Church",
+    "address": "Sandford Road, Ranelagh, Dublin 6",
+    "lat": 53.3201,
+    "lon": -6.2487
+   },
+   "url": "https://www.eventbrite.com/e/stellar-choir-christmas-concert-2026-tickets-2002915676706",
+   "notes": "An evening of Christmas music. Doors 5:45pm.",
+   "drive": {
+    "km": 7.3,
+    "minutes": 25
+   },
+   "transit": {
+    "minutes": 45,
+    "routes": "15A, S2"
+   }
+  },
+  {
    "id": "2026-11-30-nch-jinglealltheway",
    "added": "2026-11-06",
    "title": "Jingle All The Way",
@@ -442,6 +466,22 @@
    }
   },
   {
+   "id": "2026-12-02-wildduck-thedragnativity",
+   "added": "2026-11-12",
+   "title": "The Drag Nativity",
+   "category": "show",
+   "start": "2026-12-02T20:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "The Wild Duck",
+    "address": "17-20 Sycamore Street, Temple Bar, Dublin 2",
+    "lat": 53.3447705,
+    "lon": -6.2658457
+   },
+   "url": "https://www.eventbrite.com/e/the-drag-nativity-tickets-2004186483724",
+   "notes": "Comedic drag retelling of the Nativity by The Queer Cabaret. Adults."
+  },
+  {
    "id": "2026-12-03-cccathedral-shopperscarolsmountcarme",
    "added": "2026-11-06",
    "title": "Shoppers' Carols — Mount Carmel",
@@ -537,7 +577,8 @@
     "minutes": 43,
     "routes": "15A"
    },
-   "notes": "RTÉ Concert Orchestra with writers and musicians. Sold out."
+   "notes": "Sold out. RTÉ Concert Orchestra with writers and musicians.",
+   "price": "€15–€42.50"
   },
   {
    "id": "2026-12-03-stpatricks-christmasbycandlelight",
@@ -587,6 +628,23 @@
     "minutes": 45,
     "routes": "82"
    }
+  },
+  {
+   "id": "2026-12-03-helix-stepintochristmas",
+   "added": "2026-11-12",
+   "title": "Step Into Christmas",
+   "category": "concert",
+   "start": "2026-12-03T20:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "The Helix",
+    "address": "Collins Avenue, Glasnevin, Dublin 9, D09 FW22",
+    "lat": 53.38658,
+    "lon": -6.25886
+   },
+   "url": "https://www.thehelix.ie/stepintochristmas2026",
+   "price": "€29–€37",
+   "notes": "Live band concert of festive hits."
   },
   {
    "id": "2026-12-04-nch-swingintochristmas",
@@ -684,6 +742,30 @@
    "transit": {
     "minutes": 90,
     "routes": "F2, C4"
+   }
+  },
+  {
+   "id": "2026-12-04-bonnington-tomjonestributewithdanny",
+   "added": "2026-11-12",
+   "title": "Tom Jones Tribute with Danny Roman: Christmas Show",
+   "category": "show",
+   "start": "2026-12-04T12:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Bonnington Hotel",
+    "address": "Swords Road, Whitehall, Dublin 9",
+    "lat": 53.3795,
+    "lon": -6.244
+   },
+   "url": "https://www.eventbrite.ie/e/tom-jones-tribute-with-danny-roman-christmas-show-tickets-1998023979508",
+   "notes": "Afternoon Christmas tribute show, 12pm to 4:30pm. 18+.",
+   "drive": {
+    "km": 10.5,
+    "minutes": 55
+   },
+   "transit": {
+    "minutes": 79,
+    "routes": "15A, F3, 16"
    }
   },
   {
@@ -974,6 +1056,23 @@
    "notes": "Times vary."
   },
   {
+   "id": "2026-12-05-helix-rocknchristmasshowaddywa",
+   "added": "2026-11-12",
+   "title": "Rock 'N' Christmas: Showaddywaddy & Bay City Rollers",
+   "category": "concert",
+   "start": "2026-12-05T20:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "The Helix",
+    "address": "Collins Avenue, Glasnevin, Dublin 9, D09 FW22",
+    "lat": 53.38658,
+    "lon": -6.25886
+   },
+   "url": "https://www.thehelix.ie/rocknchristmas2026",
+   "price": "€35–€45",
+   "notes": "Festive night of 1970s hits."
+  },
+  {
    "id": "2026-12-06-grandmalahide-bppacharitychristmasconc",
    "added": "2026-11-06",
    "title": "BPPA Charity Christmas Concert",
@@ -1136,6 +1235,48 @@
    "notes": "Storytelling and live music. Doors 7pm."
   },
   {
+   "id": "2026-12-06-annunciation-4inabarchristmasconcert",
+   "added": "2026-11-12",
+   "title": "4 in a Bar: Christmas Concert",
+   "category": "concert",
+   "start": "2026-12-06T19:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "Church of the Annunciation",
+    "address": "Willbrook Road, Rathfarnham, Dublin 14, D14 E803",
+    "lat": 53.2963938,
+    "lon": -6.2846571
+   },
+   "url": "https://entertainment.ie/events/event/show-dublin/church-of-the-annunciation-rathfarnham/4-in-a-bar/all-45056/",
+   "price": "€20–€23",
+   "notes": "Renaissance choral pieces, carols and Irish melodies. Under-16s free.",
+   "drive": {
+    "km": 3,
+    "minutes": 13
+   },
+   "transit": {
+    "minutes": 35,
+    "routes": "15A, 74"
+   }
+  },
+  {
+   "id": "2026-12-06-helix-singforsimonchristmascon",
+   "added": "2026-11-12",
+   "title": "Sing for Simon: Christmas Concert with RTÉ Concert Orchestra",
+   "category": "concert",
+   "start": "2026-12-06T19:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "The Helix",
+    "address": "Collins Avenue, Glasnevin, Dublin 9, D09 FW22",
+    "lat": 53.38658,
+    "lon": -6.25886
+   },
+   "url": "https://www.thehelix.ie/singforsimonandrteco2026",
+   "price": "€13.50–€42.50",
+   "notes": "Hosted by Panti Bliss for Dublin Simon Community."
+  },
+  {
    "id": "2026-12-07-nch-handelsmessiah",
    "added": "2026-11-06",
    "title": "Handel's Messiah",
@@ -1149,7 +1290,7 @@
     "lat": 53.3346479,
     "lon": -6.2587823
    },
-   "url": "https://www.nch.ie/all-events-listing/handel-s-messiah/",
+   "url": "https://www.nch.ie/all-events-listing/handel-messiah-dec26/",
    "price": "€25–€40",
    "notes": "Our Lady's Choral Society and RTÉ Concert Orchestra under Proinnsias Ó Duinn. Also 8 and 9 Dec at 8pm; 9 Dec has low availability.",
    "drive": {
@@ -1277,6 +1418,23 @@
    "url": "https://dublin.ie/whats-on/listings/the-stadium-panto-aladdin-a-sammy-and-buffy-adventure/",
    "price": "€34.50–€39.50",
    "notes": "A Sammy and Buffy adventure. Times vary."
+  },
+  {
+   "id": "2026-12-08-standrewsmalahide-4inabarchristmasconcert",
+   "added": "2026-11-12",
+   "title": "4 in a Bar: Christmas Concert",
+   "category": "concert",
+   "start": "2026-12-08T19:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "St Andrew's Church, Malahide",
+    "address": "Church Road, Malahide, Co. Dublin, K36 FY04",
+    "lat": 53.44828,
+    "lon": -6.1532
+   },
+   "url": "https://entertainment.ie/events/event/show-dublin/st-andrews-church-malahide/4-in-a-bar/all-45054/",
+   "price": "€20–€23",
+   "notes": "Christmas choral concert. Under-16s free."
   },
   {
    "id": "2026-12-09-cccathedral-shopperscarolseurekakell",
@@ -2005,6 +2163,39 @@
    }
   },
   {
+   "id": "2026-12-12-terenurecollege-winterlighttallaghtchora",
+   "added": "2026-11-12",
+   "title": "Winter Light: Tallaght Choral Society Christmas Concert",
+   "category": "concert",
+   "start": "2026-12-12T19:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "Terenure College Chapel",
+    "address": "Templeogue Road, Terenure, Dublin 6W",
+    "lat": 53.305,
+    "lon": -6.2974
+   },
+   "url": "https://www.eventbrite.ie/e/winter-light-embrace-the-light-and-joy-of-christmas-tickets-2004718427783",
+   "notes": "Festive concert including Hagenberg's Illuminare. Doors 7pm."
+  },
+  {
+   "id": "2026-12-12-helix-theratpackaswinginchrist",
+   "added": "2026-11-12",
+   "title": "The Rat Pack: A Swingin' Christmas at the Sands",
+   "category": "show",
+   "start": "2026-12-12T20:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "The Helix",
+    "address": "Collins Avenue, Glasnevin, Dublin 9, D09 FW22",
+    "lat": 53.38658,
+    "lon": -6.25886
+   },
+   "url": "https://www.thehelix.ie/theratpackaswininchristmasatthesands2026",
+   "price": "€29.50–€34.50",
+   "notes": "Christmas tribute show to Sinatra, Dean Martin and Sammy Davis Jr."
+  },
+  {
    "id": "2026-12-13-stpatricks-carolsforall",
    "added": "2026-11-06",
    "title": "Carols for All",
@@ -2354,6 +2545,23 @@
    "notes": "The 8pm show is sold out; the 3pm show has low availability."
   },
   {
+   "id": "2026-12-15-allsaintsblackrock-4inabarchristmasconcert",
+   "added": "2026-11-12",
+   "title": "4 in a Bar: Christmas Concert",
+   "category": "concert",
+   "start": "2026-12-15T19:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "All Saints' Church, Blackrock",
+    "address": "Newtownpark Avenue, Blackrock, Co. Dublin",
+    "lat": 53.29166,
+    "lon": -6.17984
+   },
+   "url": "https://entertainment.ie/events/event/show-dublin/all-saints-church-blackrock/4-in-a-bar/all-45057/",
+   "price": "€20–€23",
+   "notes": "Christmas choral concert with complimentary mulled wine. Under-16s free."
+  },
+  {
    "id": "2026-12-16-whitefriar-therampartsliveatchristm",
    "added": "2026-11-05",
    "title": "The Ramparts — Live at Christmas",
@@ -2499,6 +2707,22 @@
     "minutes": 25,
     "routes": "F2"
    }
+  },
+  {
+   "id": "2026-12-16-standrewsmalahide-ocomeallyefingalmalahide",
+   "added": "2026-11-12",
+   "title": "O Come All Ye Fingal | Malahide",
+   "category": "concert",
+   "start": "2026-12-16T20:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "St Andrew's Church, Malahide",
+    "address": "Church Road, Malahide, Co. Dublin, K36 FY04",
+    "lat": 53.44828,
+    "lon": -6.1532
+   },
+   "url": "https://www.corfingal.com/upcoming-events",
+   "notes": "Cór Fingal Christmas concert. Doors 7:30pm."
   },
   {
    "id": "2026-12-17-nch-christmasgalawithclaudia",
@@ -2794,6 +3018,31 @@
    "notes": "Shows at 1:30pm, 5:30pm or 7:30pm depending on date. Family ticket €75."
   },
   {
+   "id": "2026-12-17-pavilion-thenutcrackerroyalballet",
+   "added": "2026-11-12",
+   "title": "The Nutcracker (Royal Ballet screening)",
+   "category": "show",
+   "start": "2026-12-17T19:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Pavilion Theatre",
+    "address": "Marine Road, Dún Laoghaire",
+    "lat": 53.2936,
+    "lon": -6.1357
+   },
+   "url": "https://www.paviliontheatre.ie/events/view/nutcracker26",
+   "price": "€14–€16",
+   "notes": "Cinema screening of the Royal Ballet's Nutcracker.",
+   "drive": {
+    "km": 19.5,
+    "minutes": 44
+   },
+   "transit": {
+    "minutes": 83,
+    "routes": "15A, then DART"
+   }
+  },
+  {
    "id": "2026-12-18-nch-thiswaytochristmasfeatur",
    "added": "2026-11-05",
    "title": "This Way to Christmas! Featuring The Snowman",
@@ -3029,6 +3278,31 @@
    "transit": {
     "minutes": 60,
     "routes": "82, S4, 69"
+   }
+  },
+  {
+   "id": "2026-12-18-pavilion-itsawonderfullifescreeni",
+   "added": "2026-11-12",
+   "title": "It's a Wonderful Life (screening)",
+   "category": "show",
+   "start": "2026-12-18T19:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "Pavilion Theatre",
+    "address": "Marine Road, Dún Laoghaire",
+    "lat": 53.2936,
+    "lon": -6.1357
+   },
+   "url": "https://www.paviliontheatre.ie/events/view/wonderful26",
+   "price": "€9–€10",
+   "notes": "Screening of the 1946 Christmas classic.",
+   "drive": {
+    "km": 19.5,
+    "minutes": 44
+   },
+   "transit": {
+    "minutes": 83,
+    "routes": "15A, then DART"
    }
   },
   {
@@ -3303,8 +3577,8 @@
    "added": "2026-11-10",
    "title": "Cinderella: Olly and the Glass Slipper",
    "category": "family",
-   "start": "2026-12-19T19:30",
-   "timeKnown": false,
+   "start": "2026-12-19T19:00",
+   "timeKnown": true,
    "endDate": "2027-01-03",
    "venue": {
     "name": "3Olympia Theatre",
@@ -3312,9 +3586,9 @@
     "lat": 53.34464,
     "lon": -6.26604
    },
-   "url": "https://dublin.ie/whats-on/listings/cinderella-olly-and-the-glass-slipper/",
+   "url": "https://www.3olympia.ie/whats-on/cinderella",
    "price": "From €23.50",
-   "notes": "Panto. No shows 24–25 Dec. Times vary."
+   "notes": "Panto. First show 7pm (doors 6pm); times vary after. No shows 24–25 Dec."
   },
   {
    "id": "2026-12-20-tallaghttheatre-santassupershow",
@@ -3435,6 +3709,31 @@
    "transit": {
     "minutes": 70,
     "routes": "15A, 14, 130"
+   }
+  },
+  {
+   "id": "2026-12-20-pavilion-homealonescreening",
+   "added": "2026-11-12",
+   "title": "Home Alone (screening)",
+   "category": "family",
+   "start": "2026-12-20T17:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "Pavilion Theatre",
+    "address": "Marine Road, Dún Laoghaire",
+    "lat": 53.2936,
+    "lon": -6.1357
+   },
+   "url": "https://www.paviliontheatre.ie/events/view/homealone26",
+   "price": "€7–€9",
+   "notes": "Christmas film screening. Family of 4 €28.",
+   "drive": {
+    "km": 19.5,
+    "minutes": 44
+   },
+   "transit": {
+    "minutes": 83,
+    "routes": "15A, then DART"
    }
   },
   {
