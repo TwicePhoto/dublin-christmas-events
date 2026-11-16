@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-16",
  "home": {
   "label": "D6W ED98",
   "lat": 53.30608,
@@ -59,6 +59,32 @@
    "url": "https://dublin.ie/whats-on/listings/robin-hood/",
    "price": "From €23",
    "notes": "Times vary."
+  },
+  {
+   "id": "2026-11-23-civic-abbaforeverxmasshow2026",
+   "added": "2026-11-16",
+   "title": "ABBA Forever Xmas Show 2026",
+   "category": "concert",
+   "start": "2026-11-23T20:00",
+   "timeKnown": true,
+   "endDate": "2026-11-24",
+   "venue": {
+    "name": "The Civic",
+    "address": "Parthalán Place, Tallaght, Dublin 24",
+    "lat": 53.2883746,
+    "lon": -6.3722014
+   },
+   "url": "https://www.civictheatre.ie/whats-on/abba-forever-xmas-show-2026/",
+   "price": "€33",
+   "notes": "Also Tue 24 Nov at 8pm. Meal deal €54 (ticket plus two-course meal).",
+   "drive": {
+    "km": 6,
+    "minutes": 13
+   },
+   "transit": {
+    "minutes": 25,
+    "routes": "82"
+   }
   },
   {
    "id": "2026-11-25-nch-singoutchoirchristmascon",
@@ -415,6 +441,32 @@
    }
   },
   {
+   "id": "2026-12-01-pavilion-abbaforeverthechristmass",
+   "added": "2026-11-16",
+   "title": "ABBA Forever: The Christmas Show",
+   "category": "concert",
+   "start": "2026-12-01T20:00",
+   "timeKnown": true,
+   "endDate": "2026-12-02",
+   "venue": {
+    "name": "Pavilion Theatre",
+    "address": "Marine Road, Dún Laoghaire",
+    "lat": 53.2936,
+    "lon": -6.1357
+   },
+   "url": "https://www.paviliontheatre.ie/events/view/abba2026",
+   "price": "€32",
+   "notes": "Sold out. Also Wed 2 Dec at 8pm; waitlist on the Pavilion website.",
+   "drive": {
+    "km": 19.5,
+    "minutes": 44
+   },
+   "transit": {
+    "minutes": 83,
+    "routes": "15A, then DART"
+   }
+  },
+  {
    "id": "2026-12-02-civic-ticklesanddottiearefreez",
    "added": "2026-11-06",
    "title": "Tickles and Dottie are Freezin' — The Civic Panto",
@@ -718,7 +770,8 @@
     "minutes": 83,
     "routes": "15A, then DART"
    },
-   "price": "€27–€30"
+   "price": "€27–€30",
+   "notes": "Sold out. Waitlist on the Pavilion website."
   },
   {
    "id": "2026-12-04-lucan-themerriestofmusic",
@@ -1117,6 +1170,30 @@
    "transit": {
     "minutes": 41,
     "routes": "F2, S4"
+   }
+  },
+  {
+   "id": "2026-12-06-holycrossdundrum-christmasconcertwiththep",
+   "added": "2026-11-16",
+   "title": "Christmas Concert with the Piano Academy at Holy Cross Church",
+   "category": "concert",
+   "start": "2026-12-06T17:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "Holy Cross Church",
+    "address": "Main Street, Dundrum, Dublin 14",
+    "lat": 53.2895625,
+    "lon": -6.2439375
+   },
+   "url": "https://www.eventbrite.com/e/christmas-concert-with-the-piano-academy-at-holy-cross-church-tickets-2004659308957",
+   "notes": "Doors 5pm; about 75 minutes. Book on Eventbrite.",
+   "drive": {
+    "km": 7.7,
+    "minutes": 25
+   },
+   "transit": {
+    "minutes": 56,
+    "routes": "15A, S4, 44"
    }
   },
   {
@@ -2696,9 +2773,9 @@
     "lat": 53.3367333,
     "lon": -6.2750908
    },
-   "url": "https://www.eventbrite.ie/e/christmas-hootenanny-with-macdara-yeates-tickets-2003450256649",
+   "url": "https://www.visitdublin.com/christmas-hootenanny-with-macdara-yeates",
    "price": "€65",
-   "notes": "Listing not found, check before going. Includes three-course Christmas dinner; groups of 6–40.",
+   "notes": "Includes three-course Christmas dinner; groups of 6–40. €10pp deposit to book, €55pp paid on the night.",
    "drive": {
     "km": 5.3,
     "minutes": 14
@@ -2706,8 +2783,7 @@
    "transit": {
     "minutes": 25,
     "routes": "F2"
-   },
-   "linkGone": "2026-11-13"
+   }
   },
   {
    "id": "2026-12-16-standrewsmalahide-ocomeallyefingalmalahide",
@@ -3304,6 +3380,31 @@
    "transit": {
     "minutes": 83,
     "routes": "15A, then DART"
+   }
+  },
+  {
+   "id": "2026-12-19-nch-thiswaytochristmasfeatur",
+   "added": "2026-11-16",
+   "title": "This Way to Christmas! Featuring The Snowman (Relaxed Performance)",
+   "category": "family",
+   "start": "2026-12-19T10:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "National Concert Hall",
+    "address": "Earlsfort Terrace, Dublin 2, D02 N527",
+    "lat": 53.3346479,
+    "lon": -6.2587823
+   },
+   "url": "https://www.nch.ie/all-events-listing/this-way-to-christmas-relaxed-performance-dec26/",
+   "price": "€23–€30",
+   "notes": "Relaxed performance. Family ticket €95.",
+   "drive": {
+    "km": 6.6,
+    "minutes": 26
+   },
+   "transit": {
+    "minutes": 43,
+    "routes": "15A"
    }
   },
   {
