@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-19",
  "home": {
   "label": "D6W ED98",
   "lat": 53.30608,
@@ -41,6 +41,31 @@
    "url": "https://dublin.ie/whats-on/listings/the-helix-panto-2026-neverland/",
    "price": "€33–€45",
    "notes": "Times vary."
+  },
+  {
+   "id": "2026-11-22-civic-thesingalongsongbookchri",
+   "added": "2026-11-19",
+   "title": "The Singalong Songbook Christmas Special 2026",
+   "category": "concert",
+   "start": "2026-11-22T15:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "The Civic",
+    "address": "Parthalán Place, Tallaght, Dublin 24",
+    "lat": 53.2883746,
+    "lon": -6.3722014
+   },
+   "url": "https://www.civictheatre.ie/whats-on/the-singalong-songbook-christmas-special-2026/",
+   "price": "€27",
+   "notes": "Afternoon singalong of Christmas hits, lyrics on screen. Usually sells out.",
+   "drive": {
+    "km": 6,
+    "minutes": 13
+   },
+   "transit": {
+    "minutes": 25,
+    "routes": "82"
+   }
   },
   {
    "id": "2026-11-22-gaiety-thegaietypantorobinhood",
@@ -111,6 +136,24 @@
    }
   },
   {
+   "id": "2026-11-25-ark-achristmascarol",
+   "added": "2026-11-10",
+   "title": "A Christmas Carol",
+   "category": "family",
+   "start": "2026-11-25T19:30",
+   "timeKnown": false,
+   "endDate": "2026-12-30",
+   "venue": {
+    "name": "The Ark",
+    "address": "11a Eustace Street, Temple Bar, Dublin 2",
+    "lat": 53.34501,
+    "lon": -6.26505
+   },
+   "url": "https://ark.ie/events/view/a-christmas-carol-2026",
+   "price": "€14–€18.50",
+   "notes": "Livin' Dred, ages 7+. Public shows weekends at 11am and 2pm, weekdays are for schools; daily 21–23 and 28–30 Dec."
+  },
+  {
    "id": "2026-11-25-stpatricks-tinseltownforfocusirelan",
    "added": "2026-11-06",
    "title": "Tinseltown for Focus Ireland — Christmas Concert",
@@ -159,24 +202,6 @@
     "minutes": 25,
     "routes": "82"
    }
-  },
-  {
-   "id": "2026-11-25-ark-achristmascarol",
-   "added": "2026-11-10",
-   "title": "A Christmas Carol",
-   "category": "family",
-   "start": "2026-11-25T19:30",
-   "timeKnown": false,
-   "endDate": "2026-12-30",
-   "venue": {
-    "name": "The Ark",
-    "address": "11a Eustace Street, Temple Bar, Dublin 2",
-    "lat": 53.34501,
-    "lon": -6.26505
-   },
-   "url": "https://ark.ie/events/view/a-christmas-carol-2026",
-   "price": "€14–€18.50",
-   "notes": "Livin' Dred, ages 7+. Public shows weekends at 11am and 2pm, weekdays are for schools; daily 21–23 and 28–30 Dec."
   },
   {
    "id": "2026-11-26-civic-christmascountrywiththes",
@@ -279,29 +304,6 @@
    }
   },
   {
-   "id": "2026-11-29-stpatricks-adventprocessionbycandle",
-   "added": "2026-11-06",
-   "title": "Advent Procession by Candlelight",
-   "category": "carols",
-   "start": "2026-11-29T18:00",
-   "timeKnown": true,
-   "venue": {
-    "name": "St Patrick's Cathedral",
-    "address": "St Patrick's Close, Dublin 8",
-    "lat": 53.3395,
-    "lon": -6.2715
-   },
-   "url": "https://www.stpatrickscathedral.ie/christmas26/",
-   "drive": {
-    "km": 6.4,
-    "minutes": 23
-   },
-   "transit": {
-    "minutes": 33,
-    "routes": "15A, F3"
-   }
-  },
-  {
    "id": "2026-11-29-cccathedral-adventprocession",
    "added": "2026-11-10",
    "title": "Advent Procession",
@@ -326,20 +328,27 @@
    }
   },
   {
-   "id": "2026-11-29-taney-taneyswalkingnativityexp",
-   "added": "2026-11-10",
-   "title": "Taney's Walking Nativity Experience",
-   "category": "family",
-   "start": "2026-11-29T19:30",
-   "timeKnown": false,
+   "id": "2026-11-29-stpatricks-adventprocessionbycandle",
+   "added": "2026-11-06",
+   "title": "Advent Procession by Candlelight",
+   "category": "carols",
+   "start": "2026-11-29T18:00",
+   "timeKnown": true,
    "venue": {
-    "name": "Taney Parish Centre",
-    "address": "Taney Road, Dundrum, Dublin 14, D14 AX78",
-    "lat": 53.29094,
-    "lon": -6.23819
+    "name": "St Patrick's Cathedral",
+    "address": "St Patrick's Close, Dublin 8",
+    "lat": 53.3395,
+    "lon": -6.2715
    },
-   "url": "https://www.eventbrite.co.uk/e/taneys-walking-nativity-experience-tickets-2004184413532",
-   "notes": "Sold out. Outdoor walking nativity with carols; doors 1:50pm."
+   "url": "https://www.stpatrickscathedral.ie/christmas26/",
+   "drive": {
+    "km": 6.4,
+    "minutes": 23
+   },
+   "transit": {
+    "minutes": 33,
+    "routes": "15A, F3"
+   }
   },
   {
    "id": "2026-11-29-sandford-stellarchoirchristmascon",
@@ -366,29 +375,45 @@
    }
   },
   {
-   "id": "2026-11-30-nch-jinglealltheway",
-   "added": "2026-11-06",
-   "title": "Jingle All The Way",
-   "category": "concert",
-   "start": "2026-11-30T19:30",
+   "id": "2026-11-29-stmaryshadd-adventaceremonyofcarols",
+   "added": "2026-11-19",
+   "title": "Advent: A Ceremony of Carols",
+   "category": "carols",
+   "start": "2026-11-29T19:00",
    "timeKnown": true,
    "venue": {
-    "name": "National Concert Hall",
-    "address": "Earlsfort Terrace, Dublin 2, D02 N527",
-    "lat": 53.3346479,
-    "lon": -6.2587823
+    "name": "St Mary's Church, Haddington Road",
+    "address": "Haddington Road, Ballsbridge, Dublin 4, D04 AV25",
+    "lat": 53.3349356,
+    "lon": -6.2416136
    },
-   "url": "https://www.nch.ie/all-events-listing/jingle-all-the-way-nov26/",
-   "price": "€15–€30",
-   "notes": "Rathfarnham Concert Band Society with Ballyroan-area school choirs and Loreto Beaufort. Low availability.",
+   "url": "https://evoke.ie/2026/11/12/entertainment/events/st-marys-cathedral-carols",
+   "price": "€21.25",
+   "notes": "Candlelit hour of carols and readings by Crux Vocal Ensemble with harpist Clíona Doris.",
    "drive": {
-    "km": 6.6,
-    "minutes": 26
+    "km": 6.9,
+    "minutes": 25
    },
    "transit": {
-    "minutes": 43,
-    "routes": "15A"
+    "minutes": 48,
+    "routes": "15A, S2"
    }
+  },
+  {
+   "id": "2026-11-29-taney-taneyswalkingnativityexp",
+   "added": "2026-11-10",
+   "title": "Taney's Walking Nativity Experience",
+   "category": "family",
+   "start": "2026-11-29T19:30",
+   "timeKnown": false,
+   "venue": {
+    "name": "Taney Parish Centre",
+    "address": "Taney Road, Dundrum, Dublin 14, D14 AX78",
+    "lat": 53.29094,
+    "lon": -6.23819
+   },
+   "url": "https://www.eventbrite.co.uk/e/taneys-walking-nativity-experience-tickets-2004184413532",
+   "notes": "Sold out. Outdoor walking nativity with carols; doors 1:50pm."
   },
   {
    "id": "2026-11-30-cccathedral-shopperscarolsbelvederec",
@@ -414,6 +439,31 @@
    "transit": {
     "minutes": 38,
     "routes": "150"
+   }
+  },
+  {
+   "id": "2026-11-30-nch-jinglealltheway",
+   "added": "2026-11-06",
+   "title": "Jingle All The Way",
+   "category": "concert",
+   "start": "2026-11-30T19:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "National Concert Hall",
+    "address": "Earlsfort Terrace, Dublin 2, D02 N527",
+    "lat": 53.3346479,
+    "lon": -6.2587823
+   },
+   "url": "https://www.nch.ie/all-events-listing/jingle-all-the-way-nov26/",
+   "price": "€15–€30",
+   "notes": "Rathfarnham Concert Band Society with Ballyroan-area school choirs and Loreto Beaufort. Low availability.",
+   "drive": {
+    "km": 6.6,
+    "minutes": 26
+   },
+   "transit": {
+    "minutes": 43,
+    "routes": "15A"
    }
   },
   {
@@ -493,6 +543,31 @@
    }
   },
   {
+   "id": "2026-12-02-draiocht-joyeuxnolfilmscreening",
+   "added": "2026-11-19",
+   "title": "Joyeux Noël (film screening)",
+   "category": "show",
+   "start": "2026-12-02T19:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "Draíocht",
+    "address": "Blanchardstown Centre, Dublin 15",
+    "lat": 53.3924,
+    "lon": -6.3896
+   },
+   "url": "https://www.visitdublin.com/joyeux-noel-dec-2026",
+   "price": "€6–€7.50",
+   "notes": "French film about the 1914 Christmas truce, with English subtitles.",
+   "drive": {
+    "km": 15.3,
+    "minutes": 41
+   },
+   "transit": {
+    "minutes": 87,
+    "routes": "82, W4"
+   }
+  },
+  {
    "id": "2026-12-02-stpatricks-christmasbycandlelight",
    "added": "2026-11-06",
    "title": "Christmas By Candlelight",
@@ -506,7 +581,7 @@
     "lon": -6.2715
    },
    "url": "https://www.stpatrickscathedral.ie/event/christmas-by-candlelight-2",
-   "price": "€35–€50",
+   "price": "€45–€60",
    "notes": "West End singers with a live band. Doors 7:30pm.",
    "drive": {
     "km": 6.4,
@@ -646,7 +721,7 @@
     "lon": -6.2715
    },
    "url": "https://www.stpatrickscathedral.ie/event/christmas-by-candlelight-3/",
-   "price": "€35–€50",
+   "price": "€45–€60",
    "notes": "West End singers with a live band. Doors 7:30pm.",
    "drive": {
     "km": 6.4,
@@ -699,6 +774,30 @@
    "notes": "Live band concert of festive hits."
   },
   {
+   "id": "2026-12-04-bonnington-tomjonestributewithdanny",
+   "added": "2026-11-12",
+   "title": "Tom Jones Tribute with Danny Roman: Christmas Show",
+   "category": "show",
+   "start": "2026-12-04T12:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Bonnington Hotel",
+    "address": "Swords Road, Whitehall, Dublin 9",
+    "lat": 53.3795,
+    "lon": -6.244
+   },
+   "url": "https://www.eventbrite.ie/e/tom-jones-tribute-with-danny-roman-christmas-show-tickets-1998023979508",
+   "notes": "Afternoon Christmas tribute show, 12pm to 4:30pm. 18+.",
+   "drive": {
+    "km": 10.5,
+    "minutes": 55
+   },
+   "transit": {
+    "minutes": 79,
+    "routes": "15A, F3, 16"
+   }
+  },
+  {
    "id": "2026-12-04-nch-swingintochristmas",
    "added": "2026-11-06",
    "title": "Swing Into Christmas!",
@@ -722,6 +821,22 @@
     "minutes": 43,
     "routes": "15A"
    }
+  },
+  {
+   "id": "2026-12-04-taylors-alschristmasparty",
+   "added": "2026-11-19",
+   "title": "AL's Christmas Party",
+   "category": "show",
+   "start": "2026-12-04T19:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Taylors Three Rock",
+    "address": "Grange Road, Rathfarnham, Dublin 16",
+    "lat": 53.26853,
+    "lon": -6.26229
+   },
+   "url": "https://www.eventbrite.co.uk/e/als-christmas-party-tickets-1991924798694",
+   "notes": "Christmas party night with three-course dinner, Al Porter, Mary Byrne and Fred Cooke; ages 16+. Other nights may be listed."
   },
   {
    "id": "2026-12-04-mill-themagicandmusicofchrist",
@@ -798,30 +913,6 @@
    }
   },
   {
-   "id": "2026-12-04-bonnington-tomjonestributewithdanny",
-   "added": "2026-11-12",
-   "title": "Tom Jones Tribute with Danny Roman: Christmas Show",
-   "category": "show",
-   "start": "2026-12-04T12:00",
-   "timeKnown": true,
-   "venue": {
-    "name": "Bonnington Hotel",
-    "address": "Swords Road, Whitehall, Dublin 9",
-    "lat": 53.3795,
-    "lon": -6.244
-   },
-   "url": "https://www.eventbrite.ie/e/tom-jones-tribute-with-danny-roman-christmas-show-tickets-1998023979508",
-   "notes": "Afternoon Christmas tribute show, 12pm to 4:30pm. 18+.",
-   "drive": {
-    "km": 10.5,
-    "minutes": 55
-   },
-   "transit": {
-    "minutes": 79,
-    "routes": "15A, F3, 16"
-   }
-  },
-  {
    "id": "2026-12-05-mill-pinocchio",
    "added": "2026-11-10",
    "title": "Pinocchio",
@@ -894,6 +985,30 @@
    "transit": {
     "minutes": 32,
     "routes": "F2"
+   }
+  },
+  {
+   "id": "2026-12-05-monkstown-newparkacademyofmusicchr",
+   "added": "2026-11-19",
+   "title": "Newpark Academy of Music Christmas Concert",
+   "category": "concert",
+   "start": "2026-12-05T18:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Monkstown Church of Ireland",
+    "address": "Monkstown Road, Monkstown",
+    "lat": 53.2936244,
+    "lon": -6.1531776
+   },
+   "url": "https://www.eventbrite.ie/e/newpark-academy-of-music-christmas-concert-tickets-2004886857561",
+   "notes": "One-hour Christmas concert by the music school, for all ages.",
+   "drive": {
+    "km": 17.9,
+    "minutes": 27
+   },
+   "transit": {
+    "minutes": 82,
+    "routes": "F2, 7"
    }
   },
   {
@@ -995,28 +1110,22 @@
    "price": "From €20"
   },
   {
-   "id": "2026-12-05-stanns-achristmascelebrationsus",
-   "added": "2026-11-05",
-   "title": "A Christmas Celebration — Susie Gibbons",
-   "category": "concert",
+   "id": "2026-12-05-lark-thelarkpantothelittlemer",
+   "added": "2026-11-10",
+   "title": "The Lark Panto: The Little Mermaid",
+   "category": "family",
    "start": "2026-12-05T19:30",
    "timeKnown": false,
+   "endDate": "2026-12-30",
    "venue": {
-    "name": "St Ann's Church",
-    "address": "Dawson Street, Dublin 2",
-    "lat": 53.3405,
-    "lon": -6.258
+    "name": "The Lark",
+    "address": "Church Street, Balbriggan, Co. Dublin, K32 YV56",
+    "lat": 53.60803,
+    "lon": -6.18041
    },
-   "url": "https://www.eventbrite.ie/d/ireland--dublin/christmas-concert/",
-   "drive": {
-    "km": 7.2,
-    "minutes": 28
-   },
-   "transit": {
-    "minutes": 42,
-    "routes": "15A, F3"
-   },
-   "notes": "Christmas classics, operatic arias and duets."
+   "url": "https://dublin.ie/whats-on/listings/the-lark-panto-the-little-mermaid/",
+   "price": "€32",
+   "notes": "Times vary."
   },
   {
    "id": "2026-12-05-cccathedral-carolsforchristmaswithne",
@@ -1092,24 +1201,6 @@
    }
   },
   {
-   "id": "2026-12-05-lark-thelarkpantothelittlemer",
-   "added": "2026-11-10",
-   "title": "The Lark Panto: The Little Mermaid",
-   "category": "family",
-   "start": "2026-12-05T19:30",
-   "timeKnown": false,
-   "endDate": "2026-12-30",
-   "venue": {
-    "name": "The Lark",
-    "address": "Church Street, Balbriggan, Co. Dublin, K32 YV56",
-    "lat": 53.60803,
-    "lon": -6.18041
-   },
-   "url": "https://dublin.ie/whats-on/listings/the-lark-panto-the-little-mermaid/",
-   "price": "€32",
-   "notes": "Times vary."
-  },
-  {
    "id": "2026-12-05-helix-rocknchristmasshowaddywa",
    "added": "2026-11-12",
    "title": "Rock 'N' Christmas: Showaddywaddy & Bay City Rollers",
@@ -1174,6 +1265,22 @@
    }
   },
   {
+   "id": "2026-12-06-threepatrons-joinourchristmascarolssi",
+   "added": "2026-11-19",
+   "title": "Join our Christmas Carols Sing-a-long!",
+   "category": "carols",
+   "start": "2026-12-06T15:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Church of the Three Patrons (parish hall)",
+    "address": "Rathgar Road, Rathgar, Dublin 6, D06 R924",
+    "lat": 53.31706,
+    "lon": -6.27069
+   },
+   "url": "https://www.rathminesparish.ie/home-page/join-our-christmas-carols-sing-a-long/",
+   "notes": "Rathmines parish carol sing-along, 3–5:30pm, with mince pies, hot chocolate and a best-jumper prize. All welcome."
+  },
+  {
    "id": "2026-12-06-holycrossdundrum-christmasconcertwiththep",
    "added": "2026-11-16",
    "title": "Christmas Concert with the Piano Academy at Holy Cross Church",
@@ -1220,6 +1327,22 @@
     "minutes": 83,
     "routes": "82, DART"
    }
+  },
+  {
+   "id": "2026-12-06-stfintans-themostwonderfultimeofth",
+   "added": "2026-11-19",
+   "title": "The Most Wonderful Time of the Year – Irish Philharmonic Concert Orchestra",
+   "category": "concert",
+   "start": "2026-12-06T18:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "St Fintan's Parish Church",
+    "address": "8 Greenfield Road, Sutton, Dublin 13, D13 NN70",
+    "lat": 53.38731,
+    "lon": -6.10381
+   },
+   "url": "https://www.eventbrite.ie/e/the-most-wonderful-time-of-the-year-irish-philharmonic-concert-orchestra-tickets-2000174666270",
+   "notes": "35-piece orchestra with singers Shóna O'Sullivan and Simon Morgan; part of the Coastal Music Festival."
   },
   {
    "id": "2026-12-06-nch-achristmascelebrationdub",
@@ -1269,31 +1392,6 @@
     "routes": "15A, 70"
    },
    "price": "€35"
-  },
-  {
-   "id": "2026-12-06-cccathedral-christmasatthemoviesbyca",
-   "added": "2026-11-05",
-   "title": "Christmas at the Movies by Candlelight",
-   "category": "concert",
-   "start": "2026-12-06T20:00",
-   "timeKnown": true,
-   "venue": {
-    "name": "Christ Church Cathedral",
-    "address": "Christchurch Place, Dublin 8, D08 TF98",
-    "lat": 53.343513,
-    "lon": -6.2710602
-   },
-   "url": "https://londonconcertante.com/concert/261206-christmas-at-the-movies-dublin-christchurch/",
-   "drive": {
-    "km": 6,
-    "minutes": 25
-   },
-   "transit": {
-    "minutes": 38,
-    "routes": "150"
-   },
-   "price": "From €39",
-   "notes": "London Concertante."
   },
   {
    "id": "2026-12-06-unitarian-narrative4christmasbenef",
@@ -1353,6 +1451,31 @@
    "url": "https://www.thehelix.ie/singforsimonandrteco2026",
    "price": "€13.50–€42.50",
    "notes": "Hosted by Panti Bliss for Dublin Simon Community."
+  },
+  {
+   "id": "2026-12-06-cccathedral-christmasatthemoviesbyca",
+   "added": "2026-11-05",
+   "title": "Christmas at the Movies by Candlelight",
+   "category": "concert",
+   "start": "2026-12-06T20:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Christ Church Cathedral",
+    "address": "Christchurch Place, Dublin 8, D08 TF98",
+    "lat": 53.343513,
+    "lon": -6.2710602
+   },
+   "url": "https://londonconcertante.com/concert/261206-christmas-at-the-movies-dublin-christchurch/",
+   "drive": {
+    "km": 6,
+    "minutes": 25
+   },
+   "transit": {
+    "minutes": 38,
+    "routes": "150"
+   },
+   "price": "From €39",
+   "notes": "London Concertante."
   },
   {
    "id": "2026-12-07-nch-handelsmessiah",
@@ -1455,31 +1578,6 @@
    }
   },
   {
-   "id": "2026-12-08-cccathedral-christmaswiththechoirofc",
-   "added": "2026-11-06",
-   "title": "Christmas with the Choir of Christ Church Cathedral",
-   "category": "concert",
-   "start": "2026-12-08T20:30",
-   "timeKnown": true,
-   "venue": {
-    "name": "Christ Church Cathedral",
-    "address": "Christchurch Place, Dublin 8, D08 TF98",
-    "lat": 53.343513,
-    "lon": -6.2710602
-   },
-   "url": "https://christchurchcathedral.ie/christmas-at-christ-church-cathedral-2",
-   "price": "€35",
-   "notes": "One-hour candlelit concert.",
-   "drive": {
-    "km": 6,
-    "minutes": 25
-   },
-   "transit": {
-    "minutes": 38,
-    "routes": "150"
-   }
-  },
-  {
    "id": "2026-12-08-stadium-thestadiumpantoaladdin",
    "added": "2026-11-10",
    "title": "The Stadium Panto: Aladdin",
@@ -1513,6 +1611,31 @@
    "url": "https://entertainment.ie/events/event/show-dublin/st-andrews-church-malahide/4-in-a-bar/all-45054/",
    "price": "€20–€23",
    "notes": "Christmas choral concert. Under-16s free."
+  },
+  {
+   "id": "2026-12-08-cccathedral-christmaswiththechoirofc",
+   "added": "2026-11-06",
+   "title": "Christmas with the Choir of Christ Church Cathedral",
+   "category": "concert",
+   "start": "2026-12-08T20:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "Christ Church Cathedral",
+    "address": "Christchurch Place, Dublin 8, D08 TF98",
+    "lat": 53.343513,
+    "lon": -6.2710602
+   },
+   "url": "https://christchurchcathedral.ie/christmas-at-christ-church-cathedral-2",
+   "price": "€35",
+   "notes": "One-hour candlelit concert.",
+   "drive": {
+    "km": 6,
+    "minutes": 25
+   },
+   "transit": {
+    "minutes": 38,
+    "routes": "150"
+   }
   },
   {
    "id": "2026-12-09-cccathedral-shopperscarolseurekakell",
@@ -1591,6 +1714,32 @@
    }
   },
   {
+   "id": "2026-12-09-draiocht-blanchardstownbrassbandb",
+   "added": "2026-11-19",
+   "title": "Blanchardstown Brass Band Bicentenary Celebration",
+   "category": "concert",
+   "start": "2026-12-09T20:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Draíocht",
+    "address": "Blanchardstown Centre, Dublin 15",
+    "lat": 53.3924,
+    "lon": -6.3896
+   },
+   "url": "https://www.visitdublin.com/blanchardstown-brass-band-bicentenary-celebration-2026",
+   "price": "Free",
+   "notes": "200th-anniversary concert with singer Jenny McCabe, including festive music. Booking essential.",
+   "free": true,
+   "drive": {
+    "km": 15.3,
+    "minutes": 41
+   },
+   "transit": {
+    "minutes": 87,
+    "routes": "82, W4"
+   }
+  },
+  {
    "id": "2026-12-10-cccathedral-christmaswiththechoirofc",
    "added": "2026-11-05",
    "title": "Christmas with the Choir of Christ Church Cathedral",
@@ -1616,6 +1765,30 @@
    "notes": "Second performance at 8:30pm."
   },
   {
+   "id": "2026-12-10-sacredheartdonny-hallelujahchristmasdonny",
+   "added": "2026-11-05",
+   "title": "Hallelujah Christmas — Donnybrook",
+   "category": "concert",
+   "start": "2026-12-10T19:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Church of the Sacred Heart, Donnybrook",
+    "address": "Stillorgan Road, Donnybrook, Dublin 4, D04 HW82",
+    "lat": 53.3218,
+    "lon": -6.2347
+   },
+   "url": "https://www.eventbrite.ie/e/hallelujah-christmas-donnybrook-concert-tickets-1994756722053",
+   "drive": {
+    "km": 8.5,
+    "minutes": 28
+   },
+   "transit": {
+    "minutes": 54,
+    "routes": "F2, X1"
+   },
+   "notes": "Doors 6:30pm."
+  },
+  {
    "id": "2026-12-10-lawsociety-calcuttarunchristmasconc",
    "added": "2026-11-05",
    "title": "Calcutta Run Christmas Concert",
@@ -1639,30 +1812,6 @@
    },
    "notes": "Charity concert. Mulled wine and canapés from 6pm.",
    "price": "€40"
-  },
-  {
-   "id": "2026-12-10-sacredheartdonny-hallelujahchristmasdonny",
-   "added": "2026-11-05",
-   "title": "Hallelujah Christmas — Donnybrook",
-   "category": "concert",
-   "start": "2026-12-10T19:00",
-   "timeKnown": true,
-   "venue": {
-    "name": "Church of the Sacred Heart, Donnybrook",
-    "address": "Stillorgan Road, Donnybrook, Dublin 4, D04 HW82",
-    "lat": 53.3218,
-    "lon": -6.2347
-   },
-   "url": "https://www.eventbrite.ie/e/hallelujah-christmas-donnybrook-concert-tickets-1994756722053",
-   "drive": {
-    "km": 8.5,
-    "minutes": 28
-   },
-   "transit": {
-    "minutes": 54,
-    "routes": "F2, X1"
-   },
-   "notes": "Doors 6:30pm."
   },
   {
    "id": "2026-12-10-nch-thewonderofchristmasthep",
@@ -1713,6 +1862,72 @@
    },
    "price": "€15–€25",
    "notes": "Lunchtime concert in the NCH John Field Room."
+  },
+  {
+   "id": "2026-12-11-pavilion-thebookshelfwithryantubr",
+   "added": "2026-11-10",
+   "title": "The Bookshelf with Ryan Tubridy: Family Matinée",
+   "category": "family",
+   "start": "2026-12-11T16:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Pavilion Theatre",
+    "address": "Marine Road, Dún Laoghaire",
+    "lat": 53.2936,
+    "lon": -6.1357
+   },
+   "url": "https://www.paviliontheatre.ie/events/view/bookshelf",
+   "price": "€20–€35",
+   "notes": "Festive live podcast for ages 6+, with live drawing by Will Sliney. Family ticket €99.",
+   "drive": {
+    "km": 19.5,
+    "minutes": 44
+   },
+   "transit": {
+    "minutes": 83,
+    "routes": "15A, then DART"
+   }
+  },
+  {
+   "id": "2026-12-11-monkstownpc-storytimesongswithsantac",
+   "added": "2026-11-10",
+   "title": "Storytime & Songs with Santa Claus & Helena the Storyteller",
+   "category": "family",
+   "start": "2026-12-11T18:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "St Patrick's Parish Centre, Monkstown",
+    "address": "Alma Place, Monkstown, Co. Dublin, A94 W584",
+    "lat": 53.29294,
+    "lon": -6.15281
+   },
+   "url": "https://www.eventbrite.ie/e/storytime-songs-with-santa-claus-helena-the-storyteller-tickets-2003608042591",
+   "notes": "Christmas stories, games and a sing-along for young children."
+  },
+  {
+   "id": "2026-12-11-greenisle-christmaswithabbaesque",
+   "added": "2026-11-10",
+   "title": "Christmas with ABBAesque",
+   "category": "show",
+   "start": "2026-12-11T18:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "The Green Isle Hotel",
+    "address": "Naas Road, Newlands Cross, Dublin 22, D22 F9F4",
+    "lat": 53.3098779,
+    "lon": -6.4030552
+   },
+   "url": "https://www.eventbrite.ie/e/christmas-with-abbaesque-a-night-of-nostalgia-and-glamour-night-1-tickets-1986210611406",
+   "price": "€44.95–€69.95",
+   "notes": "ABBA tribute Christmas party night with food. Also on 12 Dec.",
+   "drive": {
+    "km": 7.9,
+    "minutes": 24
+   },
+   "transit": {
+    "minutes": 60,
+    "routes": "82, S4, 69"
+   }
   },
   {
    "id": "2026-12-11-newman-alightshinesinbethlehem",
@@ -1883,72 +2098,6 @@
    }
   },
   {
-   "id": "2026-12-11-pavilion-thebookshelfwithryantubr",
-   "added": "2026-11-10",
-   "title": "The Bookshelf with Ryan Tubridy: Family Matinée",
-   "category": "family",
-   "start": "2026-12-11T16:00",
-   "timeKnown": true,
-   "venue": {
-    "name": "Pavilion Theatre",
-    "address": "Marine Road, Dún Laoghaire",
-    "lat": 53.2936,
-    "lon": -6.1357
-   },
-   "url": "https://www.paviliontheatre.ie/events/view/bookshelf",
-   "price": "€20–€35",
-   "notes": "Festive live podcast for ages 6+, with live drawing by Will Sliney. Family ticket €99.",
-   "drive": {
-    "km": 19.5,
-    "minutes": 44
-   },
-   "transit": {
-    "minutes": 83,
-    "routes": "15A, then DART"
-   }
-  },
-  {
-   "id": "2026-12-11-monkstownpc-storytimesongswithsantac",
-   "added": "2026-11-10",
-   "title": "Storytime & Songs with Santa Claus & Helena the Storyteller",
-   "category": "family",
-   "start": "2026-12-11T18:00",
-   "timeKnown": true,
-   "venue": {
-    "name": "St Patrick's Parish Centre, Monkstown",
-    "address": "Alma Place, Monkstown, Co. Dublin, A94 W584",
-    "lat": 53.29294,
-    "lon": -6.15281
-   },
-   "url": "https://www.eventbrite.ie/e/storytime-songs-with-santa-claus-helena-the-storyteller-tickets-2003608042591",
-   "notes": "Christmas stories, games and a sing-along for young children."
-  },
-  {
-   "id": "2026-12-11-greenisle-christmaswithabbaesque",
-   "added": "2026-11-10",
-   "title": "Christmas with ABBAesque",
-   "category": "show",
-   "start": "2026-12-11T18:30",
-   "timeKnown": true,
-   "venue": {
-    "name": "The Green Isle Hotel",
-    "address": "Naas Road, Newlands Cross, Dublin 22, D22 F9F4",
-    "lat": 53.3098779,
-    "lon": -6.4030552
-   },
-   "url": "https://www.eventbrite.ie/e/christmas-with-abbaesque-a-night-of-nostalgia-and-glamour-night-1-tickets-1986210611406",
-   "price": "€44.95–€69.95",
-   "notes": "ABBA tribute Christmas party night with food. Also on 12 Dec.",
-   "drive": {
-    "km": 7.9,
-    "minutes": 24
-   },
-   "transit": {
-    "minutes": 60,
-    "routes": "82, S4, 69"
-   }
-  },
-  {
    "id": "2026-12-12-stbarts-noëlmorningtonsingerslun",
    "added": "2026-11-05",
    "title": "Noël — Mornington Singers Lunchtime Concert",
@@ -2072,6 +2221,47 @@
    }
   },
   {
+   "id": "2026-12-12-greenisle-christmaswithabbaesque",
+   "added": "2026-11-10",
+   "title": "Christmas with ABBAesque",
+   "category": "show",
+   "start": "2026-12-12T18:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "The Green Isle Hotel",
+    "address": "Naas Road, Newlands Cross, Dublin 22, D22 F9F4",
+    "lat": 53.3098779,
+    "lon": -6.4030552
+   },
+   "url": "https://www.eventbrite.ie/e/christmas-with-abbaesque-a-night-of-nostalgia-and-glamour-night-2-tickets-1986211180107",
+   "price": "€44.95–€69.95",
+   "notes": "ABBA tribute Christmas party night with food.",
+   "drive": {
+    "km": 7.9,
+    "minutes": 24
+   },
+   "transit": {
+    "minutes": 60,
+    "routes": "82, S4, 69"
+   }
+  },
+  {
+   "id": "2026-12-12-stmaryshowth-howthfamilychristmasconc",
+   "added": "2026-11-19",
+   "title": "Howth Family Christmas Concert Extravaganza!",
+   "category": "family",
+   "start": "2026-12-12T18:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "St Mary's Church, Howth",
+    "address": "Howth Road, Deerpark, Howth, Dublin 13, D13 V259",
+    "lat": 53.38839,
+    "lon": -6.07911
+   },
+   "url": "https://www.eventbrite.ie/e/howth-family-christmas-concert-extravaganza-tickets-2003991666019",
+   "notes": "Dublin Concert Band and a Howth gospel choir. Under-12s free."
+  },
+  {
    "id": "2026-12-12-bonnington-dublincityramblerschrist",
    "added": "2026-11-05",
    "title": "Dublin City Ramblers Christmas Show",
@@ -2145,6 +2335,22 @@
    }
   },
   {
+   "id": "2026-12-12-terenurecollege-winterlighttallaghtchora",
+   "added": "2026-11-12",
+   "title": "Winter Light: Tallaght Choral Society Christmas Concert",
+   "category": "concert",
+   "start": "2026-12-12T19:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "Terenure College Chapel",
+    "address": "Templeogue Road, Terenure, Dublin 6W",
+    "lat": 53.305,
+    "lon": -6.2974
+   },
+   "url": "https://www.eventbrite.ie/e/winter-light-embrace-the-light-and-joy-of-christmas-tickets-2004718427783",
+   "notes": "Festive concert including Hagenberg's Illuminare. Doors 7pm."
+  },
+  {
    "id": "2026-12-12-cherrytree-theritzbrotherschristmas",
    "added": "2026-11-05",
    "title": "The Ritz Brothers Christmas Special",
@@ -2181,7 +2387,7 @@
     "lat": 53.343513,
     "lon": -6.2710602
    },
-   "url": "https://www.eventbrite.ie/d/ireland--dublin/6th-december/",
+   "url": "https://www.eventbrite.ie/e/carols-for-christmas-with-new-dublin-voices-at-christ-church-cathedral-tickets-1999570234398",
    "drive": {
     "km": 6,
     "minutes": 25
@@ -2190,7 +2396,24 @@
     "minutes": 38,
     "routes": "150"
    },
-   "notes": "Second date."
+   "notes": "Second date. Doors 7:30pm, unreserved seating."
+  },
+  {
+   "id": "2026-12-12-helix-theratpackaswinginchrist",
+   "added": "2026-11-12",
+   "title": "The Rat Pack: A Swingin' Christmas at the Sands",
+   "category": "show",
+   "start": "2026-12-12T20:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "The Helix",
+    "address": "Collins Avenue, Glasnevin, Dublin 9, D09 FW22",
+    "lat": 53.38658,
+    "lon": -6.25886
+   },
+   "url": "https://www.thehelix.ie/theratpackaswininchristmasatthesands2026",
+   "price": "€29.50–€34.50",
+   "notes": "Christmas tribute show to Sinatra, Dean Martin and Sammy Davis Jr."
   },
   {
    "id": "2026-12-12-arthurs-nigelmooneyschristmasspe",
@@ -2216,62 +2439,44 @@
    }
   },
   {
-   "id": "2026-12-12-greenisle-christmaswithabbaesque",
-   "added": "2026-11-10",
-   "title": "Christmas with ABBAesque",
-   "category": "show",
-   "start": "2026-12-12T18:30",
+   "id": "2026-12-13-stanns-achristmascelebrationsus",
+   "added": "2026-11-05",
+   "title": "A Christmas Celebration — Susie Gibbons",
+   "category": "concert",
+   "start": "2026-12-13T14:30",
    "timeKnown": true,
    "venue": {
-    "name": "The Green Isle Hotel",
-    "address": "Naas Road, Newlands Cross, Dublin 22, D22 F9F4",
-    "lat": 53.3098779,
-    "lon": -6.4030552
+    "name": "St Ann's Church",
+    "address": "18 Dawson Street, Dublin 2, D02 YV57",
+    "lat": 53.3405,
+    "lon": -6.258
    },
-   "url": "https://www.eventbrite.ie/e/christmas-with-abbaesque-a-night-of-nostalgia-and-glamour-night-2-tickets-1986211180107",
-   "price": "€44.95–€69.95",
-   "notes": "ABBA tribute Christmas party night with food.",
+   "url": "https://www.eventbrite.ie/e/a-christmas-celebration-tickets-2000898871387",
    "drive": {
-    "km": 7.9,
-    "minutes": 24
+    "km": 7.2,
+    "minutes": 28
    },
    "transit": {
-    "minutes": 60,
-    "routes": "82, S4, 69"
-   }
+    "minutes": 42,
+    "routes": "15A, F3"
+   },
+   "notes": "Christmas classics, operatic arias and duets."
   },
   {
-   "id": "2026-12-12-terenurecollege-winterlighttallaghtchora",
-   "added": "2026-11-12",
-   "title": "Winter Light: Tallaght Choral Society Christmas Concert",
+   "id": "2026-12-13-unitarian-gloriesstreamingchristma",
+   "added": "2026-11-10",
+   "title": "Glories Streaming: Christmas Concert",
    "category": "concert",
-   "start": "2026-12-12T19:30",
+   "start": "2026-12-13T14:30",
    "timeKnown": true,
    "venue": {
-    "name": "Terenure College Chapel",
-    "address": "Templeogue Road, Terenure, Dublin 6W",
-    "lat": 53.305,
-    "lon": -6.2974
+    "name": "Dublin Unitarian Church",
+    "address": "112 St Stephen's Green, Dublin 2, D02 YP23",
+    "lat": 53.338,
+    "lon": -6.26259
    },
-   "url": "https://www.eventbrite.ie/e/winter-light-embrace-the-light-and-joy-of-christmas-tickets-2004718427783",
-   "notes": "Festive concert including Hagenberg's Illuminare. Doors 7pm."
-  },
-  {
-   "id": "2026-12-12-helix-theratpackaswinginchrist",
-   "added": "2026-11-12",
-   "title": "The Rat Pack: A Swingin' Christmas at the Sands",
-   "category": "show",
-   "start": "2026-12-12T20:00",
-   "timeKnown": true,
-   "venue": {
-    "name": "The Helix",
-    "address": "Collins Avenue, Glasnevin, Dublin 9, D09 FW22",
-    "lat": 53.38658,
-    "lon": -6.25886
-   },
-   "url": "https://www.thehelix.ie/theratpackaswininchristmasatthesands2026",
-   "price": "€29.50–€34.50",
-   "notes": "Christmas tribute show to Sinatra, Dean Martin and Sammy Davis Jr."
+   "url": "https://www.eventbrite.ie/e/glories-streaming-live-at-the-unitarian-church-tickets-1801920676249",
+   "notes": "Katy Kelly, Annalisa Monticelli and Brian McIntyre, with guest Eoin Hynes."
   },
   {
    "id": "2026-12-13-stpatricks-carolsforall",
@@ -2345,6 +2550,24 @@
    }
   },
   {
+   "id": "2026-12-13-hopecentre-christmascarolservice",
+   "added": "2026-11-19",
+   "title": "Christmas Carol Service",
+   "category": "carols",
+   "start": "2026-12-13T18:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Hope Centre (Old St Mary's Church)",
+    "address": "Saint Agnes Terrace, Crumlin, Dublin 12, D12 YC80",
+    "lat": 53.3228,
+    "lon": -6.31934
+   },
+   "url": "https://www.eventbrite.ie/e/christmas-carol-service-tickets-2004372449954",
+   "price": "Free",
+   "notes": "Traditional and modern carols, doors 5:40pm, refreshments after. Free but registration essential; nearly full.",
+   "free": true
+  },
+  {
    "id": "2026-12-13-howth-hallelujahchristmashowth",
    "added": "2026-11-05",
    "title": "Hallelujah Christmas — Howth",
@@ -2394,6 +2617,22 @@
    "price": "€20–€25"
   },
   {
+   "id": "2026-12-13-threepatrons-christmaswithcantair",
+   "added": "2026-11-19",
+   "title": "Christmas with Cantairí",
+   "category": "carols",
+   "start": "2026-12-13T19:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Church of the Three Patrons",
+    "address": "Rathgar Road, Rathgar, Dublin 6, D06 R924",
+    "lat": 53.31706,
+    "lon": -6.27069
+   },
+   "url": "https://www.eventbrite.ie/e/christmas-with-cantairi-tickets-2004550128395",
+   "notes": "Cantairí Óga Átha Cliath sing traditional carols plus Handel and Rutter. About 90 minutes."
+  },
+  {
    "id": "2026-12-13-castleknockolmc-thisholynight",
    "added": "2026-11-06",
    "title": "This Holy Night",
@@ -2416,6 +2655,23 @@
     "minutes": 87,
     "routes": "15A, 37"
    }
+  },
+  {
+   "id": "2026-12-13-stteresas-christmasoholynightwitht",
+   "added": "2026-11-10",
+   "title": "Christmas O Holy Night with The Three Tenors",
+   "category": "concert",
+   "start": "2026-12-13T19:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "St Teresa's Church, Donore Avenue",
+    "address": "83 Donore Avenue, Dublin 8",
+    "lat": 53.33406,
+    "lon": -6.28339
+   },
+   "url": "https://www.eventbrite.ie/e/christmas-o-holy-night-live-with-the-three-tenors-live-donore-ave-dublin-8-tickets-2003713948358",
+   "price": "€33",
+   "notes": "Conor Gibbons, Paul Feery and Philip Klubicka."
   },
   {
    "id": "2026-12-13-whitefriar-themagicofchristmaswithm",
@@ -2491,37 +2747,30 @@
    }
   },
   {
-   "id": "2026-12-13-unitarian-gloriesstreamingchristma",
-   "added": "2026-11-10",
-   "title": "Glories Streaming: Christmas Concert",
-   "category": "concert",
-   "start": "2026-12-13T14:30",
+   "id": "2026-12-14-stpatricks-lunchtimecarolsseries",
+   "added": "2026-11-19",
+   "title": "Lunchtime Carols Series",
+   "category": "carols",
+   "start": "2026-12-14T13:00",
    "timeKnown": true,
+   "endDate": "2026-12-17",
    "venue": {
-    "name": "Dublin Unitarian Church",
-    "address": "112 St Stephen's Green, Dublin 2, D02 YP23",
-    "lat": 53.338,
-    "lon": -6.26259
+    "name": "St Patrick's Cathedral",
+    "address": "St Patrick's Close, Dublin 8",
+    "lat": 53.3395,
+    "lon": -6.2715
    },
-   "url": "https://www.eventbrite.ie/e/glories-streaming-live-at-the-unitarian-church-tickets-1801920676249",
-   "notes": "Katy Kelly, Annalisa Monticelli and Brian McIntyre, with guest Eoin Hynes."
-  },
-  {
-   "id": "2026-12-13-stteresas-christmasoholynightwitht",
-   "added": "2026-11-10",
-   "title": "Christmas O Holy Night with The Three Tenors",
-   "category": "concert",
-   "start": "2026-12-13T19:30",
-   "timeKnown": true,
-   "venue": {
-    "name": "St Teresa's Church, Donore Avenue",
-    "address": "83 Donore Avenue, Dublin 8",
-    "lat": 53.33406,
-    "lon": -6.28339
+   "url": "https://www.visitdublin.com/lunchtime-carols-series-dec-2026",
+   "price": "€11",
+   "notes": "About 20 minutes of carols daily at 1pm (orchestra, choristers, school choir, Schola), included with cathedral admission.",
+   "drive": {
+    "km": 6.4,
+    "minutes": 23
    },
-   "url": "https://www.eventbrite.ie/e/christmas-o-holy-night-live-with-the-three-tenors-live-donore-ave-dublin-8-tickets-2003713948358",
-   "price": "€33",
-   "notes": "Conor Gibbons, Paul Feery and Philip Klubicka."
+   "transit": {
+    "minutes": 33,
+    "routes": "15A, F3"
+   }
   },
   {
    "id": "2026-12-14-nch-christmasatthemovies",
@@ -2547,6 +2796,22 @@
    },
    "price": "€32–€52",
    "notes": "Dublin Concert Orchestra and New Dublin Voices. The 8pm show is sold out; the 3pm show has low availability."
+  },
+  {
+   "id": "2026-12-14-holyname-the12daysofchristmasafes",
+   "added": "2026-11-19",
+   "title": "'The 12 Days of Christmas': A festive concert of Yuletide choral music",
+   "category": "concert",
+   "start": "2026-12-14T19:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "Church of the Holy Name",
+    "address": "Beechwood Avenue Upper, Ranelagh, Dublin 6, D06 Y176",
+    "lat": 53.31856,
+    "lon": -6.25319
+   },
+   "url": "https://www.eventbrite.ie/e/the-12-days-of-christmas-a-festive-concert-of-yuletide-choral-music-tickets-2004761508639",
+   "notes": "Ranelagh Singers with Gonzaga College guests. Collection for the Alice Leahy Trust."
   },
   {
    "id": "2026-12-14-stpatricks-bubléchristmasbycandleli",
@@ -2623,6 +2888,31 @@
    "notes": "The 8pm show is sold out; the 3pm show has low availability."
   },
   {
+   "id": "2026-12-15-pavilion-cinemaandrrieus2026chris",
+   "added": "2026-11-19",
+   "title": "Cinema: André Rieu's 2026 Christmas Concert – Let It Snow",
+   "category": "show",
+   "start": "2026-12-15T19:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Pavilion Theatre",
+    "address": "Marine Road, Dún Laoghaire",
+    "lat": 53.2936,
+    "lon": -6.1357
+   },
+   "url": "https://www.visitdublin.com/cinema-andre-rieu-s-2026-christmas-concert-pavilion-dec-2026",
+   "price": "€14–€16",
+   "notes": "Cinema screening of Rieu's Christmas concert; about 2¾ hours with an interval.",
+   "drive": {
+    "km": 19.5,
+    "minutes": 44
+   },
+   "transit": {
+    "minutes": 83,
+    "routes": "15A, then DART"
+   }
+  },
+  {
    "id": "2026-12-15-allsaintsblackrock-4inabarchristmasconcert",
    "added": "2026-11-12",
    "title": "4 in a Bar: Christmas Concert",
@@ -2638,6 +2928,31 @@
    "url": "https://entertainment.ie/events/event/show-dublin/all-saints-church-blackrock/4-in-a-bar/all-45057/",
    "price": "€20–€23",
    "notes": "Christmas choral concert with complimentary mulled wine. Under-16s free."
+  },
+  {
+   "id": "2026-12-16-hensteeth-christmashootenannywithm",
+   "added": "2026-11-10",
+   "title": "Christmas Hootenanny with Macdara Yeates",
+   "category": "concert",
+   "start": "2026-12-16T18:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Hen's Teeth",
+    "address": "Blackpitts, Dublin 8, D08 A9FD",
+    "lat": 53.3367333,
+    "lon": -6.2750908
+   },
+   "url": "https://www.visitdublin.com/christmas-hootenanny-with-macdara-yeates",
+   "price": "€65",
+   "notes": "Includes three-course Christmas dinner; groups of 6–40. €10pp deposit to book, €55pp paid on the night.",
+   "drive": {
+    "km": 5.3,
+    "minutes": 14
+   },
+   "transit": {
+    "minutes": 25,
+    "routes": "F2"
+   }
   },
   {
    "id": "2026-12-16-whitefriar-therampartsliveatchristm",
@@ -2762,31 +3077,6 @@
    }
   },
   {
-   "id": "2026-12-16-hensteeth-christmashootenannywithm",
-   "added": "2026-11-10",
-   "title": "Christmas Hootenanny with Macdara Yeates",
-   "category": "concert",
-   "start": "2026-12-16T18:00",
-   "timeKnown": true,
-   "venue": {
-    "name": "Hen's Teeth",
-    "address": "Blackpitts, Dublin 8, D08 A9FD",
-    "lat": 53.3367333,
-    "lon": -6.2750908
-   },
-   "url": "https://www.visitdublin.com/christmas-hootenanny-with-macdara-yeates",
-   "price": "€65",
-   "notes": "Includes three-course Christmas dinner; groups of 6–40. €10pp deposit to book, €55pp paid on the night.",
-   "drive": {
-    "km": 5.3,
-    "minutes": 14
-   },
-   "transit": {
-    "minutes": 25,
-    "routes": "F2"
-   }
-  },
-  {
    "id": "2026-12-16-standrewsmalahide-ocomeallyefingalmalahide",
    "added": "2026-11-12",
    "title": "O Come All Ye Fingal | Malahide",
@@ -2873,6 +3163,47 @@
    "transit": {
     "minutes": 115,
     "routes": "15A, then Commuter rail"
+   }
+  },
+  {
+   "id": "2026-12-17-abbeypres-wintersongswinterstories",
+   "added": "2026-11-10",
+   "title": "Winter Songs, Winter Stories",
+   "category": "carols",
+   "start": "2026-12-17T19:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Abbey Presbyterian Church",
+    "address": "Parnell Square North, Dublin 1",
+    "lat": 53.35447,
+    "lon": -6.26384
+   },
+   "url": "https://www.eventbrite.ie/e/winter-songs-winter-stories-tickets-2004495004518",
+   "notes": "Carols, stories and strings with Inishlacken Strings. Doors 6:30pm."
+  },
+  {
+   "id": "2026-12-17-pavilion-thenutcrackerroyalballet",
+   "added": "2026-11-12",
+   "title": "The Nutcracker (Royal Ballet screening)",
+   "category": "show",
+   "start": "2026-12-17T19:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Pavilion Theatre",
+    "address": "Marine Road, Dún Laoghaire",
+    "lat": 53.2936,
+    "lon": -6.1357
+   },
+   "url": "https://www.paviliontheatre.ie/events/view/nutcracker26",
+   "price": "€14–€16",
+   "notes": "Cinema screening of the Royal Ballet's Nutcracker.",
+   "drive": {
+    "km": 19.5,
+    "minutes": 44
+   },
+   "transit": {
+    "minutes": 83,
+    "routes": "15A, then DART"
    }
   },
   {
@@ -2972,6 +3303,42 @@
    }
   },
   {
+   "id": "2026-12-17-gonzaga-aserviceofreadingsandcar",
+   "added": "2026-11-10",
+   "title": "A Service of Readings and Carols",
+   "category": "carols",
+   "start": "2026-12-17T19:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "Gonzaga College SJ",
+    "address": "Sandford Road, Ranelagh, Dublin 6, D06 KF95",
+    "lat": 53.31681,
+    "lon": -6.24933
+   },
+   "url": "https://www.eventbrite.ie/e/a-service-of-readings-and-carols-tickets-2004582724892",
+   "price": "Free",
+   "free": true,
+   "notes": "Refreshments from 7pm; collection for St Vincent de Paul."
+  },
+  {
+   "id": "2026-12-17-axis-beautythebeastaxispanto",
+   "added": "2026-11-10",
+   "title": "Beauty & The Beast: Axis Panto",
+   "category": "family",
+   "start": "2026-12-17T19:30",
+   "timeKnown": false,
+   "endDate": "2027-01-24",
+   "venue": {
+    "name": "Axis Arts Centre",
+    "address": "9 Main Street, Ballymun, Dublin 9, D09 Y9W0",
+    "lat": 53.39605,
+    "lon": -6.26274
+   },
+   "url": "https://www.visitdublin.com/beauty-the-beast-axis",
+   "price": "€18–€22",
+   "notes": "Shows at 1:30pm, 5:30pm or 7:30pm depending on date. Family ticket €75."
+  },
+  {
    "id": "2026-12-17-cccathedral-viennesechristmasspectac",
    "added": "2026-11-05",
    "title": "Viennese Christmas Spectacular by Candlelight",
@@ -3044,83 +3411,6 @@
    }
   },
   {
-   "id": "2026-12-17-gonzaga-aserviceofreadingsandcar",
-   "added": "2026-11-10",
-   "title": "A Service of Readings and Carols",
-   "category": "carols",
-   "start": "2026-12-17T19:30",
-   "timeKnown": true,
-   "venue": {
-    "name": "Gonzaga College SJ",
-    "address": "Sandford Road, Ranelagh, Dublin 6, D06 KF95",
-    "lat": 53.31681,
-    "lon": -6.24933
-   },
-   "url": "https://www.eventbrite.ie/e/a-service-of-readings-and-carols-tickets-2004582724892",
-   "price": "Free",
-   "free": true,
-   "notes": "Refreshments from 7pm; collection for St Vincent de Paul."
-  },
-  {
-   "id": "2026-12-17-abbeypres-wintersongswinterstories",
-   "added": "2026-11-10",
-   "title": "Winter Songs, Winter Stories",
-   "category": "carols",
-   "start": "2026-12-17T19:00",
-   "timeKnown": true,
-   "venue": {
-    "name": "Abbey Presbyterian Church",
-    "address": "Parnell Square North, Dublin 1",
-    "lat": 53.35447,
-    "lon": -6.26384
-   },
-   "url": "https://www.eventbrite.ie/e/winter-songs-winter-stories-tickets-2004495004518",
-   "notes": "Carols, stories and strings with Inishlacken Strings. Doors 6:30pm."
-  },
-  {
-   "id": "2026-12-17-axis-beautythebeastaxispanto",
-   "added": "2026-11-10",
-   "title": "Beauty & The Beast: Axis Panto",
-   "category": "family",
-   "start": "2026-12-17T19:30",
-   "timeKnown": false,
-   "endDate": "2027-01-24",
-   "venue": {
-    "name": "Axis Arts Centre",
-    "address": "9 Main Street, Ballymun, Dublin 9, D09 Y9W0",
-    "lat": 53.39605,
-    "lon": -6.26274
-   },
-   "url": "https://www.visitdublin.com/beauty-the-beast-axis",
-   "price": "€18–€22",
-   "notes": "Shows at 1:30pm, 5:30pm or 7:30pm depending on date. Family ticket €75."
-  },
-  {
-   "id": "2026-12-17-pavilion-thenutcrackerroyalballet",
-   "added": "2026-11-12",
-   "title": "The Nutcracker (Royal Ballet screening)",
-   "category": "show",
-   "start": "2026-12-17T19:00",
-   "timeKnown": true,
-   "venue": {
-    "name": "Pavilion Theatre",
-    "address": "Marine Road, Dún Laoghaire",
-    "lat": 53.2936,
-    "lon": -6.1357
-   },
-   "url": "https://www.paviliontheatre.ie/events/view/nutcracker26",
-   "price": "€14–€16",
-   "notes": "Cinema screening of the Royal Ballet's Nutcracker.",
-   "drive": {
-    "km": 19.5,
-    "minutes": 44
-   },
-   "transit": {
-    "minutes": 83,
-    "routes": "15A, then DART"
-   }
-  },
-  {
    "id": "2026-12-18-nch-thiswaytochristmasfeatur",
    "added": "2026-11-05",
    "title": "This Way to Christmas! Featuring The Snowman",
@@ -3147,6 +3437,32 @@
    "endDate": "2026-12-20"
   },
   {
+   "id": "2026-12-18-pavilion-theveryhungrycaterpillar",
+   "added": "2026-11-06",
+   "title": "The Very Hungry Caterpillar Christmas Show",
+   "category": "family",
+   "start": "2026-12-18T15:30",
+   "timeKnown": true,
+   "endDate": "2027-01-03",
+   "venue": {
+    "name": "Pavilion Theatre",
+    "address": "Marine Road, Dún Laoghaire",
+    "lat": 53.2936,
+    "lon": -6.1357
+   },
+   "url": "https://www.paviliontheatre.ie/events/view/caterpillar",
+   "price": "€21",
+   "notes": "Shows at 10:30am, 1pm and 3:30pm most days. Family ticket €72.",
+   "drive": {
+    "km": 19.5,
+    "minutes": 44
+   },
+   "transit": {
+    "minutes": 83,
+    "routes": "15A, then DART"
+   }
+  },
+  {
    "id": "2026-12-18-draiocht-missionsantacrackthechri",
    "added": "2026-11-06",
    "title": "Mission Santa: Crack the Christmas Code!",
@@ -3169,6 +3485,30 @@
    "transit": {
     "minutes": 87,
     "routes": "82, W4"
+   }
+  },
+  {
+   "id": "2026-12-18-greenisle-christmaspartytinaturner",
+   "added": "2026-11-10",
+   "title": "Christmas Party: Tina Turner Tribute",
+   "category": "show",
+   "start": "2026-12-18T18:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "The Green Isle Hotel",
+    "address": "Naas Road, Newlands Cross, Dublin 22, D22 F9F4",
+    "lat": 53.3098779,
+    "lon": -6.4030552
+   },
+   "url": "https://www.eventbrite.ie/e/christmas-party-tina-turner-tribute-proud-mary-city-limits-band-tickets-1986211416815",
+   "notes": "Proud Mary & City Limits Band; Christmas party night with food.",
+   "drive": {
+    "km": 7.9,
+    "minutes": 24
+   },
+   "transit": {
+    "minutes": 60,
+    "routes": "82, S4, 69"
    }
   },
   {
@@ -3244,22 +3584,38 @@
    }
   },
   {
-   "id": "2026-12-18-pavilion-theveryhungrycaterpillar",
-   "added": "2026-11-06",
-   "title": "The Very Hungry Caterpillar Christmas Show",
-   "category": "family",
-   "start": "2026-12-18T15:30",
+   "id": "2026-12-18-gardinerst-christmasoholynightwitht",
+   "added": "2026-11-10",
+   "title": "Christmas O Holy Night with The Three Tenors",
+   "category": "concert",
+   "start": "2026-12-18T19:30",
    "timeKnown": true,
-   "endDate": "2027-01-03",
+   "venue": {
+    "name": "St Francis Xavier Church, Gardiner Street",
+    "address": "Gardiner Street Upper, Dublin 1, D01 RK07",
+    "lat": 53.358,
+    "lon": -6.25964
+   },
+   "url": "https://www.eventbrite.ie/e/christmas-o-holy-night-live-with-the-three-tenors-live-gardiner-st-dublin1-tickets-2003714256279",
+   "price": "€30",
+   "notes": "Conor Gibbons, Paul Feery and Philip Klubicka."
+  },
+  {
+   "id": "2026-12-18-pavilion-itsawonderfullifescreeni",
+   "added": "2026-11-12",
+   "title": "It's a Wonderful Life (screening)",
+   "category": "show",
+   "start": "2026-12-18T19:30",
+   "timeKnown": true,
    "venue": {
     "name": "Pavilion Theatre",
     "address": "Marine Road, Dún Laoghaire",
     "lat": 53.2936,
     "lon": -6.1357
    },
-   "url": "https://www.paviliontheatre.ie/events/view/caterpillar",
-   "price": "€21",
-   "notes": "Shows at 10:30am, 1pm and 3:30pm most days. Family ticket €72.",
+   "url": "https://www.paviliontheatre.ie/events/view/wonderful26",
+   "price": "€9–€10",
+   "notes": "Screening of the 1946 Christmas classic.",
    "drive": {
     "km": 19.5,
     "minutes": 44
@@ -3315,72 +3671,6 @@
    "transit": {
     "minutes": 115,
     "routes": "F2, 41"
-   }
-  },
-  {
-   "id": "2026-12-18-gardinerst-christmasoholynightwitht",
-   "added": "2026-11-10",
-   "title": "Christmas O Holy Night with The Three Tenors",
-   "category": "concert",
-   "start": "2026-12-18T19:30",
-   "timeKnown": true,
-   "venue": {
-    "name": "St Francis Xavier Church, Gardiner Street",
-    "address": "Gardiner Street Upper, Dublin 1, D01 RK07",
-    "lat": 53.358,
-    "lon": -6.25964
-   },
-   "url": "https://www.eventbrite.ie/e/christmas-o-holy-night-live-with-the-three-tenors-live-gardiner-st-dublin1-tickets-2003714256279",
-   "price": "€30",
-   "notes": "Conor Gibbons, Paul Feery and Philip Klubicka."
-  },
-  {
-   "id": "2026-12-18-greenisle-christmaspartytinaturner",
-   "added": "2026-11-10",
-   "title": "Christmas Party: Tina Turner Tribute",
-   "category": "show",
-   "start": "2026-12-18T18:30",
-   "timeKnown": true,
-   "venue": {
-    "name": "The Green Isle Hotel",
-    "address": "Naas Road, Newlands Cross, Dublin 22, D22 F9F4",
-    "lat": 53.3098779,
-    "lon": -6.4030552
-   },
-   "url": "https://www.eventbrite.ie/e/christmas-party-tina-turner-tribute-proud-mary-city-limits-band-tickets-1986211416815",
-   "notes": "Proud Mary & City Limits Band; Christmas party night with food.",
-   "drive": {
-    "km": 7.9,
-    "minutes": 24
-   },
-   "transit": {
-    "minutes": 60,
-    "routes": "82, S4, 69"
-   }
-  },
-  {
-   "id": "2026-12-18-pavilion-itsawonderfullifescreeni",
-   "added": "2026-11-12",
-   "title": "It's a Wonderful Life (screening)",
-   "category": "show",
-   "start": "2026-12-18T19:30",
-   "timeKnown": true,
-   "venue": {
-    "name": "Pavilion Theatre",
-    "address": "Marine Road, Dún Laoghaire",
-    "lat": 53.2936,
-    "lon": -6.1357
-   },
-   "url": "https://www.paviliontheatre.ie/events/view/wonderful26",
-   "price": "€9–€10",
-   "notes": "Screening of the 1946 Christmas classic.",
-   "drive": {
-    "km": 19.5,
-    "minutes": 44
-   },
-   "transit": {
-    "minutes": 83,
-    "routes": "15A, then DART"
    }
   },
   {
@@ -3456,6 +3746,49 @@
     "minutes": 32,
     "routes": "F2"
    }
+  },
+  {
+   "id": "2026-12-19-greenisle-christmaswiththegarthbro",
+   "added": "2026-11-10",
+   "title": "Christmas with the Garth Brooks Experience",
+   "category": "show",
+   "start": "2026-12-19T18:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "The Green Isle Hotel",
+    "address": "Naas Road, Newlands Cross, Dublin 22, D22 F9F4",
+    "lat": 53.3098779,
+    "lon": -6.4030552
+   },
+   "url": "https://www.eventbrite.ie/e/christmas-with-the-garth-brooks-experience-friends-in-low-places-tickets-1986902504878",
+   "price": "€44.95–€69.95",
+   "notes": "Tribute Christmas party night with food.",
+   "drive": {
+    "km": 7.9,
+    "minutes": 24
+   },
+   "transit": {
+    "minutes": 60,
+    "routes": "82, S4, 69"
+   }
+  },
+  {
+   "id": "2026-12-19-olympia-cinderellaollyandtheglas",
+   "added": "2026-11-10",
+   "title": "Cinderella: Olly and the Glass Slipper",
+   "category": "family",
+   "start": "2026-12-19T19:00",
+   "timeKnown": true,
+   "endDate": "2027-01-03",
+   "venue": {
+    "name": "3Olympia Theatre",
+    "address": "72 Dame Street, Dublin 2",
+    "lat": 53.34464,
+    "lon": -6.26604
+   },
+   "url": "https://www.3olympia.ie/whats-on/cinderella",
+   "price": "From €23.50",
+   "notes": "Panto. First show 7pm (doors 6pm); times vary after. No shows 24–25 Dec."
   },
   {
    "id": "2026-12-19-redcow-mammamiathelivechristmas",
@@ -3599,7 +3932,9 @@
    "transit": {
     "minutes": 33,
     "routes": "15A, F3"
-   }
+   },
+   "price": "€27",
+   "notes": "Glória LGBT+ choir. Doors 7:30pm."
   },
   {
    "id": "2026-12-19-cccathedral-noëlmorningtonsingerschr",
@@ -3651,47 +3986,20 @@
    "price": "€20"
   },
   {
-   "id": "2026-12-19-greenisle-christmaswiththegarthbro",
-   "added": "2026-11-10",
-   "title": "Christmas with the Garth Brooks Experience",
-   "category": "show",
-   "start": "2026-12-19T18:30",
+   "id": "2026-12-19-stbrigidscastleknock-christmaswithcinelta2026",
+   "added": "2026-11-19",
+   "title": "Christmas with Cineálta 2026",
+   "category": "concert",
+   "start": "2026-12-19T20:00",
    "timeKnown": true,
    "venue": {
-    "name": "The Green Isle Hotel",
-    "address": "Naas Road, Newlands Cross, Dublin 22, D22 F9F4",
-    "lat": 53.3098779,
-    "lon": -6.4030552
+    "name": "St Brigid's Church of Ireland",
+    "address": "Castleknock Road, Castleknock, Dublin 15",
+    "lat": 53.3732,
+    "lon": -6.36357
    },
-   "url": "https://www.eventbrite.ie/e/christmas-with-the-garth-brooks-experience-friends-in-low-places-tickets-1986902504878",
-   "price": "€44.95–€69.95",
-   "notes": "Tribute Christmas party night with food.",
-   "drive": {
-    "km": 7.9,
-    "minutes": 24
-   },
-   "transit": {
-    "minutes": 60,
-    "routes": "82, S4, 69"
-   }
-  },
-  {
-   "id": "2026-12-19-olympia-cinderellaollyandtheglas",
-   "added": "2026-11-10",
-   "title": "Cinderella: Olly and the Glass Slipper",
-   "category": "family",
-   "start": "2026-12-19T19:00",
-   "timeKnown": true,
-   "endDate": "2027-01-03",
-   "venue": {
-    "name": "3Olympia Theatre",
-    "address": "72 Dame Street, Dublin 2",
-    "lat": 53.34464,
-    "lon": -6.26604
-   },
-   "url": "https://www.3olympia.ie/whats-on/cinderella",
-   "price": "From €23.50",
-   "notes": "Panto. First show 7pm (doors 6pm); times vary after. No shows 24–25 Dec."
+   "url": "https://www.eventbrite.ie/e/christmas-with-cinealta-2026-tickets-2004436124406",
+   "notes": "Carols, film music and festive folk songs. Doors 7:45pm."
   },
   {
    "id": "2026-12-20-tallaghttheatre-santassupershow",
@@ -3718,6 +4026,31 @@
    }
   },
   {
+   "id": "2026-12-20-sacredheartdonny-christmaswithdivavoces",
+   "added": "2026-11-19",
+   "title": "Christmas with Diva Voces",
+   "category": "concert",
+   "start": "2026-12-20T15:00",
+   "timeKnown": true,
+   "venue": {
+    "name": "Church of the Sacred Heart, Donnybrook",
+    "address": "Stillorgan Road, Donnybrook, Dublin 4, D04 HW82",
+    "lat": 53.3218,
+    "lon": -6.2347
+   },
+   "url": "https://www.visitdublin.com/christmas-with-diva-voces-2026",
+   "price": "€5–€20",
+   "notes": "About 75 minutes. Adults €20, children €5.",
+   "drive": {
+    "km": 8.5,
+    "minutes": 28
+   },
+   "transit": {
+    "minutes": 54,
+    "routes": "F2, X1"
+   }
+  },
+  {
    "id": "2026-12-20-stpatricks-serviceofninelessonsandc",
    "added": "2026-11-06",
    "title": "Service of Nine Lessons and Carols",
@@ -3740,6 +4073,31 @@
     "routes": "15A, F3"
    },
    "notes": "The cathedral's main carol service."
+  },
+  {
+   "id": "2026-12-20-pavilion-homealonescreening",
+   "added": "2026-11-12",
+   "title": "Home Alone (screening)",
+   "category": "family",
+   "start": "2026-12-20T17:30",
+   "timeKnown": true,
+   "venue": {
+    "name": "Pavilion Theatre",
+    "address": "Marine Road, Dún Laoghaire",
+    "lat": 53.2936,
+    "lon": -6.1357
+   },
+   "url": "https://www.paviliontheatre.ie/events/view/homealone26",
+   "price": "€7–€9",
+   "notes": "Christmas film screening. Family of 4 €28.",
+   "drive": {
+    "km": 19.5,
+    "minutes": 44
+   },
+   "transit": {
+    "minutes": 83,
+    "routes": "15A, then DART"
+   }
   },
   {
    "id": "2026-12-20-peppercanister-harkhearthebells",
@@ -3812,31 +4170,6 @@
    "transit": {
     "minutes": 70,
     "routes": "15A, 14, 130"
-   }
-  },
-  {
-   "id": "2026-12-20-pavilion-homealonescreening",
-   "added": "2026-11-12",
-   "title": "Home Alone (screening)",
-   "category": "family",
-   "start": "2026-12-20T17:30",
-   "timeKnown": true,
-   "venue": {
-    "name": "Pavilion Theatre",
-    "address": "Marine Road, Dún Laoghaire",
-    "lat": 53.2936,
-    "lon": -6.1357
-   },
-   "url": "https://www.paviliontheatre.ie/events/view/homealone26",
-   "price": "€7–€9",
-   "notes": "Christmas film screening. Family of 4 €28.",
-   "drive": {
-    "km": 19.5,
-    "minutes": 44
-   },
-   "transit": {
-    "minutes": 83,
-    "routes": "15A, then DART"
    }
   },
   {
@@ -3958,7 +4291,7 @@
     "routes": "15A, F3"
    },
    "notes": "West End singers with a live band. Doors 7:30pm.",
-   "price": "€35–€50"
+   "price": "€45–€60"
   },
   {
    "id": "2026-12-21-nch-thegreatchristmasconcert",
