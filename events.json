@@ -3132,7 +3132,7 @@
    },
    "url": "https://www.eventbrite.ie/e/christmas-hootenanny-with-liam-winnett-tickets-2003450500378",
    "price": "€65",
-   "notes": "Includes three-course dinner; group bookings of 6–40.",
+   "notes": "Listing not found, check before going. Includes three-course dinner; group bookings of 6–40.",
    "drive": {
     "km": 5.3,
     "minutes": 14
@@ -3140,7 +3140,8 @@
    "transit": {
     "minutes": 25,
     "routes": "F2"
-   }
+   },
+   "linkGone": "2026-11-20"
   },
   {
    "id": "2026-12-17-skerries-hallelujahchristmasskerr",
